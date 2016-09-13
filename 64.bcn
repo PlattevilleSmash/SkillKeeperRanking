@@ -1,46 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SK92>
-  <Settings Multiplier="200" MinMatches="1" Decay="3" DecayValue="1" />
+  <Settings Multiplier="200" MinMatches="1" Decay="2" DecayValue="2" />
   <Players>
-    <Player Name="VGS Meerkat" Team="" Invisible="true" Characters="" Alts="VGS | Meerkat;TSW | Meerkat" />
-    <Player Name="QTIP" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Spence" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Desseler" Team="" Invisible="true" Characters="" Alts="" />
+    <Player Name="Fishaman P" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="VGS Meerkat" Team="" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat;Meerkat" />
     <Player Name="8_bit_D" Team="" Invisible="false" Characters="" Alts="XPND | 8_bit_D" />
-    <Player Name="Hogosha" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dysfunkti0nal" Team="" Invisible="true" Characters="" Alts="dysfunkti0nal" />
+    <Player Name="Spence" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="QTIP" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Chuck Lubs" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Desseler" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Spencer" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="WORM" Team="" Invisible="false" Characters="" Alts="CCAT | WORM" />
+    <Player Name="Dysfunkti0nal" Team="" Invisible="false" Characters="" Alts="dysfunkti0nal" />
+    <Player Name="Hogosha" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="LordEnglish" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Collin U" Team="" Invisible="false" Characters="" Alts="Mexican Tim" />
-    <Player Name="1.5.[ichigo]" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Blaze" Team="" Invisible="true" Characters="" Alts="DrKBlaze" />
-    <Player Name="DanS" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Bock" Team="" Invisible="true" Characters="" Alts="BOCK" />
-    <Player Name="Tales" Team="" Invisible="true" Characters="" Alts="" />
+    <Player Name="Garcia" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seen" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="DanS" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Blaze" Team="" Invisible="false" Characters="" Alts="DrKBlaze" />
+    <Player Name="Dr3AM" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Symphonic Salute" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Bock" Team="" Invisible="false" Characters="" Alts="BOCK" />
+    <Player Name="Tales" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Micah" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="CUTE" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dr3AM" Team="" Invisible="true" Characters="" Alts="" />
     <Player Name="BurntToast" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Landry" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Seth" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="StowAway" Team="" Invisible="true" Characters="" Alts="" />
+    <Player Name="Seth" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="StowAway" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Landry" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Poskii" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="HellBringer" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="PowPow" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Narbs" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="UncleBones" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Sharkkill" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="HIV+" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Art" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Rawrizard" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Crucialtoast8" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Jokepasa" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="HackAttack" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="Big Mac" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="MajorDumpage" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="BadAssSwimDud3" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="The_Odis" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="FuzzyWozzy" Team="" Invisible="true" Characters="" Alts="" />
-    <Player Name="TrippleJ AllDay" Team="" Invisible="true" Characters="" Alts="" />
+    <Player Name="HellBringer" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Sharkkill" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="PowPow" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Narbs" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="UncleBones" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="HIV+" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Art" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Rawrizard" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Crucialtoast8" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Jokepasa" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="HackAttack" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Big Mac" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="MajorDumpage" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="BadAssSwimDud3" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="The_Odis" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="FuzzyWozzy" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="TrippleJ AllDay" Team="" Invisible="false" Characters="" Alts="" />
   </Players>
   <Matches>
     <Match ID="c57e153643e44f26ac726c997cc446b8" Timestamp="4/18/2015 3:42:40 PM" Order="1" Description="challonge - Smash Jam 7 - Smash 64 Pool D" Player1="VGS Meerkat" Player2="Blaze" Winner="1" />
@@ -197,8 +204,6 @@
     <Match ID="d59bfa3ef48c46fbb08088ba558b8117" Timestamp="12/5/2015 5:51:45 PM" Order="10" Description="challonge - Smash Jam 12 64 singles" Player1="WORM" Player2="Spence" Winner="2" />
     <Match ID="d0e0f198df874f60a373fe27ad4503f9" Timestamp="12/5/2015 5:51:45 PM" Order="11" Description="challonge - Smash Jam 12 64 singles" Player1="Chuck Lubs" Player2="Spence" Winner="2" />
     <Match ID="2b3c7c619b79424ea0561425f62324f9" Timestamp="12/5/2015 5:51:45 PM" Order="12" Description="challonge - Smash Jam 12 64 singles" Player1="VGS Meerkat" Player2="Spence" Winner="1" />
-    <Match ID="000" Timestamp="2/20/2016 12:00:00 AM" Order="1" Description="Ladder Match" Player1="Chuck Lubs" Player2="8_bit_D" Winner="2" />
-    <Match ID="000" Timestamp="2/20/2016 12:00:00 AM" Order="2" Description="Ladder Match" Player1="Hogosha" Player2="WORM" Winner="1" />
     <Match ID="4114504901a84094950cd33ff70c68f0" Timestamp="2/20/2016 6:52:32 PM" Order="1" Description="challonge - SJ14 64 Singles" Player1="DanS" Player2="CUTE" Winner="1" />
     <Match ID="b215bdbfa6ed4545ab57d3a4b8eb3529" Timestamp="2/20/2016 6:52:32 PM" Order="2" Description="challonge - SJ14 64 Singles" Player1="Landry" Player2="Tales" Winner="2" />
     <Match ID="09b548f683ea49d7a5b298eb02a75199" Timestamp="2/20/2016 6:52:32 PM" Order="3" Description="challonge - SJ14 64 Singles" Player1="WORM" Player2="Collin U" Winner="1" />
@@ -216,5 +221,26 @@
     <Match ID="624e18dca2064af1bca1dddb94ef1b7d" Timestamp="2/20/2016 6:52:32 PM" Order="18" Description="challonge - SJ14 64 Singles" Player1="Spence" Player2="Collin U" Winner="1" />
     <Match ID="a03e72a89d1149e09b6f28a8a5ab6156" Timestamp="2/20/2016 6:52:32 PM" Order="19" Description="challonge - SJ14 64 Singles" Player1="8_bit_D" Player2="Spence" Winner="2" />
     <Match ID="2f01bdd474474015a105784b35ea01c2" Timestamp="2/20/2016 6:52:32 PM" Order="20" Description="challonge - SJ14 64 Singles" Player1="VGS Meerkat" Player2="Spence" Winner="1" />
+    <Match ID="568a4d187c644350ba2e6dd8c8a29f06" Timestamp="4/2/2016 4:10:34 PM" Order="1" Description="challonge - Smash Jam 15 64" Player1="Hogosha" Player2="Symphonic Salute" Winner="1" />
+    <Match ID="5161f38a7e80475798df76162a302235" Timestamp="4/2/2016 4:10:34 PM" Order="2" Description="challonge - Smash Jam 15 64" Player1="Seen" Player2="Garcia" Winner="2" />
+    <Match ID="16b0abe0427f44868cf8faf15a5fc40e" Timestamp="4/2/2016 4:10:34 PM" Order="3" Description="challonge - Smash Jam 15 64" Player1="WORM" Player2="Micah" Winner="1" />
+    <Match ID="6c51564e80814181b9a9f079f5866ce7" Timestamp="4/2/2016 4:10:34 PM" Order="4" Description="challonge - Smash Jam 15 64" Player1="Chuck Lubs" Player2="Spencer" Winner="2" />
+    <Match ID="46284b97c1ed41dc85dd2bfcdc019936" Timestamp="4/2/2016 4:10:34 PM" Order="5" Description="challonge - Smash Jam 15 64" Player1="Fishaman P" Player2="Hogosha" Winner="1" />
+    <Match ID="69089464920b4de7893c08769071e679" Timestamp="4/2/2016 4:10:34 PM" Order="6" Description="challonge - Smash Jam 15 64" Player1="8_bit_D" Player2="Garcia" Winner="1" />
+    <Match ID="29504d9a3a6844bdbd5ee6936ba65a27" Timestamp="4/2/2016 4:10:34 PM" Order="7" Description="challonge - Smash Jam 15 64" Player1="VGS Meerkat" Player2="WORM" Winner="1" />
+    <Match ID="cb7fefd2c1fb42f4896de5b35ad099b0" Timestamp="4/2/2016 4:10:34 PM" Order="8" Description="challonge - Smash Jam 15 64" Player1="LordEnglish" Player2="Spencer" Winner="1" />
+    <Match ID="208ddc18d88b4f6ca0b1f59fa968de76" Timestamp="4/2/2016 4:10:34 PM" Order="9" Description="challonge - Smash Jam 15 64" Player1="Fishaman P" Player2="8_bit_D" Winner="1" />
+    <Match ID="4c27f518c33c44109ea9581bb5187ff4" Timestamp="4/2/2016 4:10:34 PM" Order="10" Description="challonge - Smash Jam 15 64" Player1="VGS Meerkat" Player2="LordEnglish" Winner="1" />
+    <Match ID="90a4e4df83cc4b45b06c14755dcc2636" Timestamp="4/2/2016 4:10:34 PM" Order="11" Description="challonge - Smash Jam 15 64" Player1="Fishaman P" Player2="VGS Meerkat" Winner="1" />
+    <Match ID="a73fe43d27df4a039c8767c9cdbb4b37" Timestamp="4/2/2016 4:10:34 PM" Order="13" Description="challonge - Smash Jam 15 64" Player1="WORM" Player2="Seen" Winner="2" />
+    <Match ID="aff4ccf426c342308f53b071b8aff552" Timestamp="4/2/2016 4:10:34 PM" Order="14" Description="challonge - Smash Jam 15 64" Player1="Garcia" Player2="Micah" Winner="1" />
+    <Match ID="f1a31dff8d924ff1898760cb6db5c6cc" Timestamp="4/2/2016 4:10:34 PM" Order="15" Description="challonge - Smash Jam 15 64" Player1="Hogosha" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="0c77cff75b9c497ca76389ea91de3fd6" Timestamp="4/2/2016 4:10:34 PM" Order="16" Description="challonge - Smash Jam 15 64" Player1="Spencer" Player2="Seen" Winner="1" />
+    <Match ID="40fda58e93394632814912174c2d66bf" Timestamp="4/2/2016 4:10:34 PM" Order="17" Description="challonge - Smash Jam 15 64" Player1="Garcia" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="7a51abb6248749cd8a33eb89ecd819fb" Timestamp="4/2/2016 4:10:34 PM" Order="18" Description="challonge - Smash Jam 15 64" Player1="8_bit_D" Player2="Spencer" Winner="1" />
+    <Match ID="b2e87422c07c468cb8973e09ce760c80" Timestamp="4/2/2016 4:10:34 PM" Order="19" Description="challonge - Smash Jam 15 64" Player1="LordEnglish" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="b8f5b805a4414bc0b6787b0c9717b32e" Timestamp="4/2/2016 4:10:34 PM" Order="20" Description="challonge - Smash Jam 15 64" Player1="8_bit_D" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="5287e07c1fd7424a852c28cfe1857ac5" Timestamp="4/2/2016 4:10:34 PM" Order="21" Description="challonge - Smash Jam 15 64" Player1="VGS Meerkat" Player2="8_bit_D" Winner="1" />
+    <Match ID="109a9c82ef6b4deb8887017e26d9cc40" Timestamp="4/2/2016 4:10:34 PM" Order="22" Description="challonge - Smash Jam 15 64" Player1="Fishaman P" Player2="VGS Meerkat" Winner="1" />
   </Matches>
 </SK92>
