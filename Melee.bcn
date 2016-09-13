@@ -5,69 +5,69 @@
     <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Simple" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Spencilence" Team="La Crosse" Invisible="false" Characters="" Alts="Spence" />
+    <Player Name="Spence" Team="La Crosse" Invisible="false" Characters="" Alts="Spencilence" />
     <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Oh;Ho" />
     <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="Mellow | Mike" />
+    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="MH | QTIP" />
     <Player Name="LordEnglish" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="MH | QTIP" />
     <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="XxRoyMasterX;seen" />
-    <Player Name="Narbs" Team="Platteville" Invisible="false" Characters="" Alts="Duck;narbs" />
+    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="Duck;narbs" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="hogosha" />
-    <Player Name="LightsOutAce" Team="Madison" Invisible="false" Characters="" Alts="yolosniper" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Dysfunk;Functional" />
-    <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="gibby" />
+    <Player Name="LightsOutAce" Team="Madison" Invisible="false" Characters="" Alts="yolosniper" />
     <Player Name="@TryceBlazer" Team="Madison" Invisible="false" Characters="" Alts="@teh_blazerer" />
+    <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="gibby" />
     <Player Name="Fluxator" Team="Janesville" Invisible="false" Characters="" Alts="Flux" />
     <Player Name="Ryou" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="WORM" Team="Platteville" Invisible="false" Characters="" Alts="CCAT | WORM;ZUNE | WORM;Slime" />
+    <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM;ZUNE | WORM;Slime" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;8_Bit_D" />
     <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast;burnttoast" />
+    <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
     <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;DrKBlaze (BC)" />
     <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="ChuckLubs;Charlie_609;Chuck Lubz" />
-    <Player Name="Desseler" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="MVG Inui" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Jon$" Team="Milwaukee" Invisible="false" Characters="" Alts="EHG Jon$;EHG | Jon$" />
     <Player Name="StaXxX" Team="La Crosse" Invisible="false" Characters="" Alts="Staxxx" />
-    <Player Name="Meerkat" Team="Milwaukee" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat" />
+    <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat" />
     <Player Name="rat" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="bauz" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Chan" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="4PG Ch0ice" Team="Milwaukee" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Chan" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Scrublord" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Brik Stone" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Scrublord" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Doob" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="ruku" Team="Eau Claire" Invisible="false" Characters="" Alts="Runge-Kutta" />
     <Player Name="Udagawa" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Ironsonic" Team="" Invisible="false" Characters="" Alts="IronSonic" />
     <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="erin" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Ironsonic" Team="" Invisible="false" Characters="" Alts="IronSonic" />
     <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="DanS" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="tamerlane" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="danzdaman" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Cardboardbear" Team="" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="nick" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Collin" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Mexican Tim" />
     <Player Name="EMP" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Collin" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Mexican Tim" />
     <Player Name="broseph" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="BotGrant" />
-    <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="knock knock" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Riku" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="Wooormy" Team="Platteville" Invisible="false" Characters="" Alts="wooormy(AB)" />
-    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard" />
     <Player Name="Soren" Team="Platteville" Invisible="false" Characters="" Alts="WORM | Soren" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard" />
     <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Gary" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="sc30" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
@@ -78,7 +78,7 @@
     <Player Name="Slottmachine" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="PowPow" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Brx" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Zetto" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Zetto" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Cryo" Team="Janesville" Invisible="false" Characters="" Alts="" />
     <Player Name="CucumberSalad" Team="Platteville" Invisible="false" Characters="" Alts="BarioBruthrs" />
     <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
@@ -651,7 +651,7 @@
     <Match ID="a76004d102104a62a814289f90ed8e9f" Timestamp="9/6/2015 9:11:21 PM" Order="58" Description="challonge - Smash Jam 8: Melee" Player1="Hogosha" Player2="QTIP" Winner="2" />
     <Match ID="9b62b9c6fb66410a9cbc78d0e1f0dc78" Timestamp="9/6/2015 9:11:21 PM" Order="59" Description="challonge - Smash Jam 8: Melee" Player1="Landry" Player2="QTIP" Winner="1" />
     <Match ID="86e3b205703f410b91c07f6cd0282ab1" Timestamp="9/6/2015 9:11:21 PM" Order="60" Description="challonge - Smash Jam 8: Melee" Player1="Desseler" Player2="Landry" Winner="1" />
-    <Match ID="a44361dc2fac4a5d86f848e3440343f5" Timestamp="9/26/2015 8:38:27 PM" Order="1" Description="challonge - Smash Jam 9: Melee" Player1="Seth" Player2="Spencilence" Winner="2" />
+    <Match ID="a44361dc2fac4a5d86f848e3440343f5" Timestamp="9/26/2015 8:38:27 PM" Order="1" Description="challonge - Smash Jam 9: Melee" Player1="Seth" Player2="Spence" Winner="2" />
     <Match ID="73ef8f01f0744336b0dfbede511ef0ad" Timestamp="9/26/2015 8:38:27 PM" Order="2" Description="challonge - Smash Jam 9: Melee" Player1="Dysfunkti0nal" Player2="CUTE" Winner="1" />
     <Match ID="94eb5caa87cd4026bcab957b4031bfe3" Timestamp="9/26/2015 8:38:27 PM" Order="3" Description="challonge - Smash Jam 9: Melee" Player1="Narbs" Player2="Crucialtoast8" Winner="1" />
     <Match ID="84b0ccaadf08479fb3a7eb5d389f5e6d" Timestamp="9/26/2015 8:38:27 PM" Order="4" Description="challonge - Smash Jam 9: Melee" Player1="oh" Player2="HellBringer" Winner="1" />
@@ -665,7 +665,7 @@
     <Match ID="48d232f769bb4d05a1dbfa7254539b38" Timestamp="9/26/2015 8:38:27 PM" Order="12" Description="challonge - Smash Jam 9: Melee" Player1="StaXxX" Player2="Torizo" Winner="1" />
     <Match ID="61c9549b8b76458f8f57cd71c09e365e" Timestamp="9/26/2015 8:38:27 PM" Order="13" Description="challonge - Smash Jam 9: Melee" Player1="Ryou" Player2="HIV+" Winner="1" />
     <Match ID="17e722f316a04f4e87b0f41b89f2ca66" Timestamp="9/26/2015 8:38:27 PM" Order="14" Description="challonge - Smash Jam 9: Melee" Player1="Udagawa" Player2="Gary" Winner="1" />
-    <Match ID="e2d745f7c0214525a850bc50e47bf89b" Timestamp="9/26/2015 8:38:27 PM" Order="15" Description="challonge - Smash Jam 9: Melee" Player1="@TryceBlazer" Player2="Spencilence" Winner="1" />
+    <Match ID="e2d745f7c0214525a850bc50e47bf89b" Timestamp="9/26/2015 8:38:27 PM" Order="15" Description="challonge - Smash Jam 9: Melee" Player1="@TryceBlazer" Player2="Spence" Winner="1" />
     <Match ID="5dbbff163e5a439387adceba57abdabc" Timestamp="9/26/2015 8:38:27 PM" Order="16" Description="challonge - Smash Jam 9: Melee" Player1="Dysfunkti0nal" Player2="Narbs" Winner="2" />
     <Match ID="8d1eea874ad043acb48151bdbbac03f5" Timestamp="9/26/2015 8:38:27 PM" Order="17" Description="challonge - Smash Jam 9: Melee" Player1="oh" Player2="WORM" Winner="1" />
     <Match ID="91290d53f4694d81a4eb6b53cb2f6d84" Timestamp="9/26/2015 8:38:27 PM" Order="18" Description="challonge - Smash Jam 9: Melee" Player1="Seen" Player2="BurntToast" Winner="1" />
@@ -693,17 +693,17 @@
     <Match ID="e5888733c0da4ccbafd5ca4e6981d38f" Timestamp="9/26/2015 8:38:27 PM" Order="40" Description="challonge - Smash Jam 9: Melee" Player1="BurntToast" Player2="FrozenPizza" Winner="2" />
     <Match ID="81b2955cc90548e098716cdce6eb03fd" Timestamp="9/26/2015 8:38:27 PM" Order="41" Description="challonge - Smash Jam 9: Melee" Player1="WORM" Player2="Hogosha" Winner="2" />
     <Match ID="d42f7bc51f3546eb9651f9fcdaf4e2ec" Timestamp="9/26/2015 8:38:27 PM" Order="42" Description="challonge - Smash Jam 9: Melee" Player1="Dysfunkti0nal" Player2="Torizo" Winner="2" />
-    <Match ID="564004eed5ac4c50b0b5bd40d4b2d8b0" Timestamp="9/26/2015 8:38:27 PM" Order="43" Description="challonge - Smash Jam 9: Melee" Player1="Spencilence" Player2="Gary" Winner="1" />
+    <Match ID="564004eed5ac4c50b0b5bd40d4b2d8b0" Timestamp="9/26/2015 8:38:27 PM" Order="43" Description="challonge - Smash Jam 9: Melee" Player1="Spence" Player2="Gary" Winner="1" />
     <Match ID="f7b47ee3a7524cd184b8140ee301feac" Timestamp="9/26/2015 8:38:27 PM" Order="44" Description="challonge - Smash Jam 9: Melee" Player1="Udagawa" Player2="StaXxX" Winner="1" />
     <Match ID="90cb0928da324008bcdf986871acfdf1" Timestamp="9/26/2015 8:38:27 PM" Order="45" Description="challonge - Smash Jam 9: Melee" Player1="DrKBlaze" Player2="Meerkat" Winner="1" />
     <Match ID="d65c37311c5c44088a9b30b09750ef4a" Timestamp="9/26/2015 8:38:27 PM" Order="46" Description="challonge - Smash Jam 9: Melee" Player1="FrozenPizza" Player2="Hogosha" Winner="2" />
-    <Match ID="7a46823a8cb34c81ad0f8cf76038dc4e" Timestamp="9/26/2015 8:38:27 PM" Order="47" Description="challonge - Smash Jam 9: Melee" Player1="Torizo" Player2="Spencilence" Winner="2" />
+    <Match ID="7a46823a8cb34c81ad0f8cf76038dc4e" Timestamp="9/26/2015 8:38:27 PM" Order="47" Description="challonge - Smash Jam 9: Melee" Player1="Torizo" Player2="Spence" Winner="2" />
     <Match ID="2c71c650f0174b85a726cf6a313d1a97" Timestamp="9/26/2015 8:38:27 PM" Order="48" Description="challonge - Smash Jam 9: Melee" Player1="oh" Player2="Udagawa" Winner="2" />
     <Match ID="efbcf7d58be8404ba54ae4010ed01655" Timestamp="9/26/2015 8:38:27 PM" Order="49" Description="challonge - Smash Jam 9: Melee" Player1="Narbs" Player2="DrKBlaze" Winner="1" />
     <Match ID="6041e21ac8ea4623a8bb65708e1b34d8" Timestamp="9/26/2015 8:38:27 PM" Order="50" Description="challonge - Smash Jam 9: Melee" Player1="Tales" Player2="Hogosha" Winner="1" />
-    <Match ID="2d0850037a53452a81ec666cb38f5b79" Timestamp="9/26/2015 8:38:27 PM" Order="51" Description="challonge - Smash Jam 9: Melee" Player1="QTIP" Player2="Spencilence" Winner="2" />
+    <Match ID="2d0850037a53452a81ec666cb38f5b79" Timestamp="9/26/2015 8:38:27 PM" Order="51" Description="challonge - Smash Jam 9: Melee" Player1="QTIP" Player2="Spence" Winner="2" />
     <Match ID="514c0d8085dc414cb94d87bf40d814b7" Timestamp="9/26/2015 8:38:27 PM" Order="52" Description="challonge - Smash Jam 9: Melee" Player1="Udagawa" Player2="Narbs" Winner="2" />
-    <Match ID="7181b21fb68246dc947faf2c77a1f6a9" Timestamp="9/26/2015 8:38:27 PM" Order="53" Description="challonge - Smash Jam 9: Melee" Player1="Tales" Player2="Spencilence" Winner="1" />
+    <Match ID="7181b21fb68246dc947faf2c77a1f6a9" Timestamp="9/26/2015 8:38:27 PM" Order="53" Description="challonge - Smash Jam 9: Melee" Player1="Tales" Player2="Spence" Winner="1" />
     <Match ID="27e72ead0f3d48919f4db3bc4cde515a" Timestamp="9/26/2015 8:38:27 PM" Order="54" Description="challonge - Smash Jam 9: Melee" Player1="Simple" Player2="Narbs" Winner="1" />
     <Match ID="e8bf1229d47d4789967e98d92f179546" Timestamp="9/26/2015 8:38:27 PM" Order="55" Description="challonge - Smash Jam 9: Melee" Player1="Seen" Player2="Tales" Winner="2" />
     <Match ID="9a7ce2c202e940738cc4112f96efab76" Timestamp="9/26/2015 8:38:27 PM" Order="56" Description="challonge - Smash Jam 9: Melee" Player1="Simple" Player2="Tales" Winner="2" />
@@ -875,17 +875,17 @@
     <Match ID="47f04b265822436a968c194ab6fd8414" Timestamp="12/5/2015 6:45:51 PM" Order="9" Description="challonge - Smash Jam 12 Melee Singles" Player1="Chuck Lubs" Player2="Collin" Winner="2" />
     <Match ID="4d93e5a0a5cd4527b9f8dd59df8a38c3" Timestamp="12/5/2015 6:45:51 PM" Order="10" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="Cryo" Winner="1" />
     <Match ID="6f8a30ef5b7c4155abfdab6a099d6628" Timestamp="12/5/2015 6:45:51 PM" Order="11" Description="challonge - Smash Jam 12 Melee Singles" Player1="Meerkat" Player2="WORM" Winner="2" />
-    <Match ID="a3f5112ca29242ca9b118400cebb64cd" Timestamp="12/5/2015 6:45:51 PM" Order="12" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spencilence" Player2="Fluxator" Winner="1" />
+    <Match ID="a3f5112ca29242ca9b118400cebb64cd" Timestamp="12/5/2015 6:45:51 PM" Order="12" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spence" Player2="Fluxator" Winner="1" />
     <Match ID="c161f9cef6a24786a96c65bef87dbf33" Timestamp="12/5/2015 6:45:51 PM" Order="13" Description="challonge - Smash Jam 12 Melee Singles" Player1="Narbs" Player2="DrKBlaze" Winner="1" />
     <Match ID="72a737ea728e41a0a8c33d4ea8a44ac3" Timestamp="12/5/2015 6:45:51 PM" Order="14" Description="challonge - Smash Jam 12 Melee Singles" Player1="Simple" Player2="Chan" Winner="1" />
     <Match ID="ba5dd6aa1fa549609c82b092e0522083" Timestamp="12/5/2015 6:45:51 PM" Order="15" Description="challonge - Smash Jam 12 Melee Singles" Player1="8_bit_D" Player2="BurntToast" Winner="1" />
     <Match ID="d2ee00dd8f7a4a0da0884ef28fac18d8" Timestamp="12/5/2015 6:45:51 PM" Order="16" Description="challonge - Smash Jam 12 Melee Singles" Player1="Seen" Player2="Poskii" Winner="1" />
     <Match ID="0b362a68a5694486b9a90414c55cabcf" Timestamp="12/5/2015 6:45:51 PM" Order="17" Description="challonge - Smash Jam 12 Melee Singles" Player1="oh" Player2="Collin" Winner="1" />
     <Match ID="245482f8e9cc4dc5a2e0092f036f3edc" Timestamp="12/5/2015 6:45:51 PM" Order="18" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="WORM" Winner="1" />
-    <Match ID="71c8b6f0bb23405eacdb739f6575fd24" Timestamp="12/5/2015 6:45:51 PM" Order="19" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spencilence" Player2="Narbs" Winner="1" />
+    <Match ID="71c8b6f0bb23405eacdb739f6575fd24" Timestamp="12/5/2015 6:45:51 PM" Order="19" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spence" Player2="Narbs" Winner="1" />
     <Match ID="aeed19e3d28843c7a4748ab89d4dfa4d" Timestamp="12/5/2015 6:45:51 PM" Order="20" Description="challonge - Smash Jam 12 Melee Singles" Player1="Simple" Player2="8_bit_D" Winner="1" />
     <Match ID="87f0d0aae1ff4e339da95651467d9daa" Timestamp="12/5/2015 6:45:51 PM" Order="21" Description="challonge - Smash Jam 12 Melee Singles" Player1="Seen" Player2="oh" Winner="1" />
-    <Match ID="fc921f5f8cf743219a6f2c615dfc0b46" Timestamp="12/5/2015 6:45:51 PM" Order="22" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="Spencilence" Winner="1" />
+    <Match ID="fc921f5f8cf743219a6f2c615dfc0b46" Timestamp="12/5/2015 6:45:51 PM" Order="22" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="Spence" Winner="1" />
     <Match ID="4802655aa7944d3690b928f696ca4841" Timestamp="12/5/2015 6:45:51 PM" Order="23" Description="challonge - Smash Jam 12 Melee Singles" Player1="Simple" Player2="Seen" Winner="1" />
     <Match ID="7fefeff558744918b480ecc82470884d" Timestamp="12/5/2015 6:45:51 PM" Order="24" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="Simple" Winner="1" />
     <Match ID="e8804af363024dfeb1b0fab65c07bec9" Timestamp="12/5/2015 6:45:51 PM" Order="25" Description="challonge - Smash Jam 12 Melee Singles" Player1="iWillSwim" Player2="Orzzy" Winner="2" />
@@ -907,8 +907,8 @@
     <Match ID="3c040f2df49644ddb4b96ea0a3141d16" Timestamp="12/5/2015 6:45:51 PM" Order="41" Description="challonge - Smash Jam 12 Melee Singles" Player1="8_bit_D" Player2="Meerkat" Winner="1" />
     <Match ID="a18f6d851cb54fefb069e40b92ee2d26" Timestamp="12/5/2015 6:45:51 PM" Order="42" Description="challonge - Smash Jam 12 Melee Singles" Player1="Poskii" Player2="BurntToast" Winner="2" />
     <Match ID="2385aa3b5f9b41c9a89abef4e9a13698" Timestamp="12/5/2015 6:45:51 PM" Order="44" Description="challonge - Smash Jam 12 Melee Singles" Player1="Seen" Player2="BurntToast" Winner="1" />
-    <Match ID="ebbe6ee7bfe441acbdc99cca9330c6d0" Timestamp="12/5/2015 6:45:51 PM" Order="45" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spencilence" Player2="8_bit_D" Winner="1" />
-    <Match ID="3cdf98c541e443bdafe47bf91be95975" Timestamp="12/5/2015 6:45:51 PM" Order="46" Description="challonge - Smash Jam 12 Melee Singles" Player1="Seen" Player2="Spencilence" Winner="1" />
+    <Match ID="ebbe6ee7bfe441acbdc99cca9330c6d0" Timestamp="12/5/2015 6:45:51 PM" Order="45" Description="challonge - Smash Jam 12 Melee Singles" Player1="Spence" Player2="8_bit_D" Winner="1" />
+    <Match ID="3cdf98c541e443bdafe47bf91be95975" Timestamp="12/5/2015 6:45:51 PM" Order="46" Description="challonge - Smash Jam 12 Melee Singles" Player1="Seen" Player2="Spence" Winner="1" />
     <Match ID="e6e3394c924e4c33a95ac5197ec43dfe" Timestamp="12/5/2015 6:45:51 PM" Order="47" Description="challonge - Smash Jam 12 Melee Singles" Player1="Simple" Player2="Seen" Winner="1" />
     <Match ID="d6d866568f8f45b2969d70d17ebf25c0" Timestamp="12/5/2015 6:45:51 PM" Order="48" Description="challonge - Smash Jam 12 Melee Singles" Player1="Landry" Player2="Simple" Winner="1" />
     <Match ID="d2937f8ee57f4eccae80dce7552967cf" Timestamp="1/30/2016 7:04:25 PM" Order="1" Description="challonge - Smash Jam 13 Melee Singles" Player1="Soren" Player2="Alex409521" Winner="1" />
@@ -981,7 +981,7 @@
     <Match ID="9368d9ca08324c2288df0b99397af603" Timestamp="2/20/2016 8:14:12 PM" Order="1" Description="challonge - SJ14 Melee Singles" Player1="Meerkat" Player2="Pok3monRocks" Winner="1" />
     <Match ID="c26c7b50338148208d2a856c4445c09c" Timestamp="2/20/2016 8:14:12 PM" Order="2" Description="challonge - SJ14 Melee Singles" Player1="Dysfunkti0nal" Player2="Soren" Winner="1" />
     <Match ID="c0f110fc539d4ccebaeeab8371333857" Timestamp="2/20/2016 8:14:12 PM" Order="3" Description="challonge - SJ14 Melee Singles" Player1="Poskii" Player2="CUTE" Winner="1" />
-    <Match ID="0579aab442bf4cb9a2953feac826ec5d" Timestamp="2/20/2016 8:14:12 PM" Order="4" Description="challonge - SJ14 Melee Singles" Player1="Spencilence" Player2="KCBunne" Winner="1" />
+    <Match ID="0579aab442bf4cb9a2953feac826ec5d" Timestamp="2/20/2016 8:14:12 PM" Order="4" Description="challonge - SJ14 Melee Singles" Player1="Spence" Player2="KCBunne" Winner="1" />
     <Match ID="8eb612b7115e48f1aa8753f8ad881654" Timestamp="2/20/2016 8:14:12 PM" Order="5" Description="challonge - SJ14 Melee Singles" Player1="Narbs" Player2="Chuck Lubs" Winner="1" />
     <Match ID="95831230c69748d4886cc9b8ea69ba99" Timestamp="2/20/2016 8:14:12 PM" Order="6" Description="challonge - SJ14 Melee Singles" Player1="Ryou" Player2="popeFrank" Winner="1" />
     <Match ID="4c682092f812441fa904060481166ebc" Timestamp="2/20/2016 8:14:12 PM" Order="7" Description="challonge - SJ14 Melee Singles" Player1="Fluxator" Player2="Collin" Winner="1" />
@@ -995,17 +995,17 @@
     <Match ID="1865be3f46bd4bb9aa1af43333a0eec3" Timestamp="2/20/2016 8:14:12 PM" Order="15" Description="challonge - SJ14 Melee Singles" Player1="FrozenPizza" Player2="DrKBlaze" Winner="1" />
     <Match ID="79c01c0d9ae344e08a6a9360ae9b66e1" Timestamp="2/20/2016 8:14:12 PM" Order="16" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Meerkat" Winner="1" />
     <Match ID="f07573169627470788579e827c17c5fe" Timestamp="2/20/2016 8:14:12 PM" Order="17" Description="challonge - SJ14 Melee Singles" Player1="Dysfunkti0nal" Player2="Poskii" Winner="2" />
-    <Match ID="11e97368c9284402b8f877d612cca1f4" Timestamp="2/20/2016 8:14:12 PM" Order="18" Description="challonge - SJ14 Melee Singles" Player1="Spencilence" Player2="Narbs" Winner="1" />
+    <Match ID="11e97368c9284402b8f877d612cca1f4" Timestamp="2/20/2016 8:14:12 PM" Order="18" Description="challonge - SJ14 Melee Singles" Player1="Spence" Player2="Narbs" Winner="1" />
     <Match ID="dbf1565ee1e64b9b8c6aeabdcc362cc8" Timestamp="2/20/2016 8:14:12 PM" Order="19" Description="challonge - SJ14 Melee Singles" Player1="Ryou" Player2="Fluxator" Winner="2" />
     <Match ID="a899814a915843ec8a7f717483464b86" Timestamp="2/20/2016 8:14:12 PM" Order="20" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="8_bit_D" Winner="1" />
     <Match ID="39c7feacdf5e4f7d986d81a5583452d3" Timestamp="2/20/2016 8:14:12 PM" Order="21" Description="challonge - SJ14 Melee Singles" Player1="oh" Player2="DanS" Winner="1" />
     <Match ID="3bb456bf0a334f69be7b4e04e804c2c8" Timestamp="2/20/2016 8:14:12 PM" Order="22" Description="challonge - SJ14 Melee Singles" Player1="Tales" Player2="StaXxX" Winner="1" />
     <Match ID="15fa532fa1b640fd800458af75532079" Timestamp="2/20/2016 8:14:12 PM" Order="23" Description="challonge - SJ14 Melee Singles" Player1="Seen" Player2="FrozenPizza" Winner="1" />
     <Match ID="054feede73704d90841313a1eb212d62" Timestamp="2/20/2016 8:14:12 PM" Order="24" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Poskii" Winner="1" />
-    <Match ID="7f8c45b9df14493ea1151704a535ef2b" Timestamp="2/20/2016 8:14:12 PM" Order="25" Description="challonge - SJ14 Melee Singles" Player1="Spencilence" Player2="Fluxator" Winner="1" />
+    <Match ID="7f8c45b9df14493ea1151704a535ef2b" Timestamp="2/20/2016 8:14:12 PM" Order="25" Description="challonge - SJ14 Melee Singles" Player1="Spence" Player2="Fluxator" Winner="1" />
     <Match ID="28ca625f6bca4fb79a4554474debf3d1" Timestamp="2/20/2016 8:14:12 PM" Order="26" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="oh" Winner="1" />
     <Match ID="9e43f46f7feb4777b76e59ef474c31b2" Timestamp="2/20/2016 8:14:12 PM" Order="27" Description="challonge - SJ14 Melee Singles" Player1="Tales" Player2="Seen" Winner="1" />
-    <Match ID="8dbcc9dc5b404f948b7bf09dee289680" Timestamp="2/20/2016 8:14:12 PM" Order="28" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Spencilence" Winner="1" />
+    <Match ID="8dbcc9dc5b404f948b7bf09dee289680" Timestamp="2/20/2016 8:14:12 PM" Order="28" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Spence" Winner="1" />
     <Match ID="4a287b99669446ddbbbab0c01a8558b0" Timestamp="2/20/2016 8:14:12 PM" Order="29" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="Tales" Winner="2" />
     <Match ID="2a35abc514c64454afbfdab7d90bd8cd" Timestamp="2/20/2016 8:14:12 PM" Order="30" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Tales" Winner="2" />
     <Match ID="121c817206ad4f77aca6b7841d423d45" Timestamp="2/20/2016 8:14:12 PM" Order="31" Description="challonge - SJ14 Melee Singles" Player1="Soren" Player2="CUTE" Winner="1" />
@@ -1034,8 +1034,8 @@
     <Match ID="7a6a871520c040b3a519a0254aa1a514" Timestamp="2/20/2016 8:14:12 PM" Order="54" Description="challonge - SJ14 Melee Singles" Player1="StaXxX" Player2="Poskii" Winner="2" />
     <Match ID="caa2fcb844374e13aeebd08309815f31" Timestamp="2/20/2016 8:14:12 PM" Order="55" Description="challonge - SJ14 Melee Singles" Player1="Ryou" Player2="oh" Winner="1" />
     <Match ID="5313e99cedfa4a0e9ee8a90021d4a1c0" Timestamp="2/20/2016 8:14:12 PM" Order="56" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="Poskii" Winner="1" />
-    <Match ID="5889ba24e2ed406c9b27ed3133cd2736" Timestamp="2/20/2016 8:14:12 PM" Order="57" Description="challonge - SJ14 Melee Singles" Player1="Spencilence" Player2="Ryou" Winner="1" />
-    <Match ID="54c556ff18084338b227a263e7d5d501" Timestamp="2/20/2016 8:14:12 PM" Order="58" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="Spencilence" Winner="1" />
+    <Match ID="5889ba24e2ed406c9b27ed3133cd2736" Timestamp="2/20/2016 8:14:12 PM" Order="57" Description="challonge - SJ14 Melee Singles" Player1="Spence" Player2="Ryou" Winner="1" />
+    <Match ID="54c556ff18084338b227a263e7d5d501" Timestamp="2/20/2016 8:14:12 PM" Order="58" Description="challonge - SJ14 Melee Singles" Player1="Simple" Player2="Spence" Winner="1" />
     <Match ID="790994be823444f0baa5fb58cf77e4da" Timestamp="2/20/2016 8:14:12 PM" Order="59" Description="challonge - SJ14 Melee Singles" Player1="Landry" Player2="Simple" Winner="1" />
     <Match ID="bf6521a3c41f4fbba9396a8a3a9b951d" Timestamp="2/20/2016 8:14:12 PM" Order="60" Description="challonge - SJ14 Melee Singles" Player1="Tales" Player2="Landry" Winner="1" />
     <Match ID="a75f283f16e44f1cbf53feae73ec3a4b" Timestamp="2/27/2016 3:49:04 PM" Order="1" Description="challonge - NRHH Melee Tournament" Player1="decay" Player2="n00b" Winner="2" />
@@ -1058,13 +1058,13 @@
     <Match ID="cf9eb0de4da94882811084655fcf691e" Timestamp="3/5/2016 12:00:00 AM" Order="1" Description="challonge - Plattecon '16 Melee pool B" Player1="Wooormy" Player2="piqui" Winner="1" />
     <Match ID="88f95fffc76046339588037074473714" Timestamp="3/5/2016 12:00:00 AM" Order="2" Description="challonge - Plattecon '16 Melee pool A" Player1="LightsOutAce" Player2="girk" Winner="1" />
     <Match ID="c06625e4ef8a4a87b9a2b56e06694466" Timestamp="3/5/2016 12:00:00 AM" Order="2" Description="challonge - Plattecon '16 Melee pool C" Player1="WORM" Player2="lucariogirlforevever" Winner="1" />
-    <Match ID="275c306eb6ea43a4bf72ce45bf141634" Timestamp="3/5/2016 12:00:00 AM" Order="2" Description="challonge - Plattecon '16 Melee pool B" Player1="Spencilence" Player2="Wooormy" Winner="1" />
+    <Match ID="275c306eb6ea43a4bf72ce45bf141634" Timestamp="3/5/2016 12:00:00 AM" Order="2" Description="challonge - Plattecon '16 Melee pool B" Player1="Spence" Player2="Wooormy" Winner="1" />
     <Match ID="b26957c5d39948ae9bde5909d9b1b546" Timestamp="3/5/2016 12:00:00 AM" Order="3" Description="challonge - Plattecon '16 Melee pool A" Player1="Simple" Player2="Dr3AM" Winner="1" />
     <Match ID="97a77f026803477e87b5e85858c3ea51" Timestamp="3/5/2016 12:00:00 AM" Order="3" Description="challonge - Plattecon '16 Melee pool C" Player1="QTIP" Player2="erin" Winner="1" />
     <Match ID="ee092954eb65426f9fe686553c9aec4c" Timestamp="3/5/2016 12:00:00 AM" Order="3" Description="challonge - Plattecon '16 Melee pool B" Player1="Narbs" Player2="DrKBlaze" Winner="1" />
     <Match ID="28cd5656dd854413955e60215bf9eaee" Timestamp="3/5/2016 12:00:00 AM" Order="4" Description="challonge - Plattecon '16 Melee pool A" Player1="Poskii" Player2="LightsOutAce" Winner="2" />
     <Match ID="8cb2b2d97242432b9807c43feefb7b9a" Timestamp="3/5/2016 12:00:00 AM" Order="4" Description="challonge - Plattecon '16 Melee pool C" Player1="Hogosha" Player2="WORM" Winner="1" />
-    <Match ID="fe43cb2aacaf4d27ba5674ced035d1bb" Timestamp="3/5/2016 12:00:00 AM" Order="4" Description="challonge - Plattecon '16 Melee pool B" Player1="Spencilence" Player2="Narbs" Winner="1" />
+    <Match ID="fe43cb2aacaf4d27ba5674ced035d1bb" Timestamp="3/5/2016 12:00:00 AM" Order="4" Description="challonge - Plattecon '16 Melee pool B" Player1="Spence" Player2="Narbs" Winner="1" />
     <Match ID="05db5435695b4cc79a3f632e5d059b4b" Timestamp="3/5/2016 12:00:00 AM" Order="5" Description="challonge - Plattecon '16 Melee pool A" Player1="Simple" Player2="LightsOutAce" Winner="1" />
     <Match ID="fbf9630bbeb848168919fea172347a62" Timestamp="3/5/2016 12:00:00 AM" Order="5" Description="challonge - Plattecon '16 Melee pool C" Player1="QTIP" Player2="Hogosha" Winner="1" />
     <Match ID="0c7d5cce69e84a38aec266015e588a85" Timestamp="3/5/2016 12:00:00 AM" Order="5" Description="challonge - Plattecon '16 Melee pool B" Player1="DrKBlaze" Player2="piqui" Winner="1" />
@@ -1086,15 +1086,15 @@
     <Match ID="05658b38857049acb2e50ca5a59a8505" Timestamp="3/5/2016 3:30:47 PM" Order="6" Description="challonge - Plattecon '16 Melee pool D" Player1="Crucialtoast8" Player2="8_bit_D" Winner="2" />
     <Match ID="cc3abeca4bc14ccca2bc5a561f5d439f" Timestamp="3/5/2016 3:30:47 PM" Order="7" Description="challonge - Plattecon '16 Melee pool D" Player1="oh" Player2="8_bit_D" Winner="1" />
     <Match ID="eedafca8025d4dfa8c3066ed45332fe9" Timestamp="3/5/2016 9:26:20 PM" Order="5" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Simple" Player2="Gibby" Winner="2" />
-    <Match ID="02526f51ff9a4fa5a5612d1c58f6995e" Timestamp="3/5/2016 9:26:20 PM" Order="6" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Spencilence" Player2="QTIP" Winner="1" />
-    <Match ID="86e2f61c34da45c5a495bf1a84f29caf" Timestamp="3/5/2016 9:26:20 PM" Order="7" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Gibby" Player2="Spencilence" Winner="2" />
+    <Match ID="02526f51ff9a4fa5a5612d1c58f6995e" Timestamp="3/5/2016 9:26:20 PM" Order="6" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Spence" Player2="QTIP" Winner="1" />
+    <Match ID="86e2f61c34da45c5a495bf1a84f29caf" Timestamp="3/5/2016 9:26:20 PM" Order="7" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Gibby" Player2="Spence" Winner="2" />
     <Match ID="619b088d033a47858f730a05f8716473" Timestamp="3/5/2016 9:26:20 PM" Order="8" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="LightsOutAce" Player2="oh" Winner="1" />
     <Match ID="0180dda803b645efb5729a184bae1d13" Timestamp="3/5/2016 9:26:20 PM" Order="9" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Narbs" Player2="Hogosha" Winner="2" />
     <Match ID="a7f7f4d2dbdd41e78bbb08cbfb9e564e" Timestamp="3/5/2016 9:26:20 PM" Order="10" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="QTIP" Player2="LightsOutAce" Winner="2" />
     <Match ID="b62a805f67a14b72bf107fc0c83c6362" Timestamp="3/5/2016 9:26:20 PM" Order="11" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Simple" Player2="Hogosha" Winner="1" />
     <Match ID="c08594a11c1948e3a4a100b89888d7dd" Timestamp="3/5/2016 9:26:20 PM" Order="12" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="LightsOutAce" Player2="Simple" Winner="2" />
     <Match ID="67b2c16c6a6440ff97e59a3d23dfb999" Timestamp="3/5/2016 9:26:20 PM" Order="13" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Gibby" Player2="Simple" Winner="2" />
-    <Match ID="d986910344e84a3c9177fa1ce17572f2" Timestamp="3/5/2016 9:26:20 PM" Order="14" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Spencilence" Player2="Simple" Winner="1" />
+    <Match ID="d986910344e84a3c9177fa1ce17572f2" Timestamp="3/5/2016 9:26:20 PM" Order="14" Description="challonge - Plattecon '16 Melee Final Bracket" Player1="Spence" Player2="Simple" Winner="1" />
     <Match ID="7e0ef032881f49b9b9c09274b2ba8b35" Timestamp="4/2/2016 7:11:59 PM" Order="1" Description="challonge - Smash Jam 15 Melee" Player1="Cardboardbear" Player2="Soren" Winner="1" />
     <Match ID="f0bf25cb002a4222becf8342a21a63c0" Timestamp="4/2/2016 7:11:59 PM" Order="2" Description="challonge - Smash Jam 15 Melee" Player1="Ironsonic" Player2="n00b" Winner="1" />
     <Match ID="a6e94dc9e7b84541882e9141909b877c" Timestamp="4/2/2016 7:11:59 PM" Order="3" Description="challonge - Smash Jam 15 Melee" Player1="Crucialtoast8" Player2="KCBunne" Winner="2" />

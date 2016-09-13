@@ -2,58 +2,58 @@
 <SK92>
   <Settings Multiplier="200" MinMatches="1" Decay="2" DecayValue="2" />
   <Players>
-    <Player Name="QTIP" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dysfunkti0nal" Team="" Invisible="false" Characters="" Alts="dysfunkti0nal;Functional" />
-    <Player Name="Gibby" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Functional" />
+    <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Flux" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Narbs" Team="" Invisible="false" Characters="" Alts="narbs" />
-    <Player Name="BurntToast" Team="" Invisible="false" Characters="" Alts="burntToast" />
-    <Player Name="Ryou" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Seen" Team="" Invisible="false" Characters="" Alts="seen" />
-    <Player Name="psychonautqq" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="8_bit_D" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="oh" Team="" Invisible="false" Characters="" Alts="Ho" />
-    <Player Name="Chuck Lubs" Team="" Invisible="false" Characters="" Alts="Chuck Lubz" />
-    <Player Name="Tales" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Simple" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="narbs" />
+    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast" />
+    <Player Name="Ryou" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="seen" />
+    <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
+    <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Ho" />
+    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="Chuck Lubz" />
+    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Simple" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="IronSonic" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="DrKBlaze" Team="" Invisible="false" Characters="" Alts="Blaze" />
-    <Player Name="Fishaman P" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Landry" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="FrozenPizza" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="monk" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Hogosha" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze" />
+    <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
+    <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seth" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Scrublord" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="ZUNE | WORM;CCAT | WORM" />
     <Player Name="CardboardBear" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Seth" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="WORM" Team="" Invisible="false" Characters="" Alts="ZUNE | WORM;CCAT | WORM" />
     <Player Name="Who" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Poskii" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Gary" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="toast" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dady" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="yolosniperking" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="toast" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
+    <Player Name="Gary" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="yolosniperking" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="THGN" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dr3AM" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Captain" Team="" Invisible="false" Characters="" Alts="The Captain" />
-    <Player Name="Meerkat" Team="" Invisible="false" Characters="" Alts="VGS Meerkat;VGS | Meerkat" />
+    <Player Name="Dady" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
+    <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS Meerkat;VGS | Meerkat" />
     <Player Name="Cryo" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="CucumberSalad" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="HIV+" Team="" Invisible="false" Characters="" Alts="Lolroflpie" />
-    <Player Name="CUTE" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="collin" Team="" Invisible="false" Characters="" Alts="Mexican Tim" />
+    <Player Name="CucumberSalad" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="HIV+" Team="Platteville" Invisible="false" Characters="" Alts="Lolroflpie" />
+    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="collin" />
     <Player Name="LucarioGirlForever" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Crucialtoast8" Team="" Invisible="false" Characters="" Alts="crucialtoast8;CrucialToast8" />
+    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="crucialtoast8;CrucialToast8" />
     <Player Name="girk" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Torizo" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Torizo" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Kevin" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="KCBunne" Team="" Invisible="false" Characters="" Alts="KCbunne" />
-    <Player Name="Tyler" Team="" Invisible="false" Characters="" Alts="tyler" />
-    <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="Fatz" />
+    <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
+    <Player Name="Tyler" Team="Platteville" Invisible="false" Characters="" Alts="tyler" />
+    <Player Name="fatz" Team="Eau Claire" Invisible="false" Characters="" Alts="Fatz" />
     <Player Name="Nicro" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Soren" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Soren" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Chan" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="zwutt" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Cobalt" Team="" Invisible="false" Characters="" Alts="" />
@@ -64,25 +64,25 @@
     <Player Name="Dismount Psyduck" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Aloos McGoose" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Kram" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Wooormy" Team="" Invisible="false" Characters="" Alts="CCAT | WORM" />
+    <Player Name="Wooormy" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Rawrizard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="EMP" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Kraemer" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Kraemer" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="InkyMoon" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="xD" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Jin" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Jad" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Mike" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="HellBringer" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="HellBringer" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="THEBURNDOME" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="SoapyWater" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="ruku" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="rat" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="broseph" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="robert otto" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="robert otto" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Knock Knock" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Symphonic Salute" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="n00b" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Symphonic Salute" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Piqui" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Shepard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr Mario" Team="" Invisible="false" Characters="" Alts="" />
@@ -240,7 +240,7 @@
     <Match ID="f0913922f5154c31b8b1300e932098fb" Timestamp="11/7/2015 8:13:53 PM" Order="8" Description="challonge - Smash Jam 11 PM Singles" Player1="Fishaman P" Player2="Soren" Winner="1" />
     <Match ID="30178ca000404e28ba09d37967ac72e9" Timestamp="11/7/2015 8:13:53 PM" Order="10" Description="challonge - Smash Jam 11 PM Singles" Player1="Nicro" Player2="KCBunne" Winner="2" />
     <Match ID="dba2077542024a9a913a8bf2ff987e68" Timestamp="11/7/2015 8:13:53 PM" Order="11" Description="challonge - Smash Jam 11 PM Singles" Player1="Seen" Player2="L10N" Winner="1" />
-    <Match ID="d5106d17656b4c2fbcc773f69e662dd3" Timestamp="11/7/2015 8:13:53 PM" Order="12" Description="challonge - Smash Jam 11 PM Singles" Player1="8_bit_D" Player2="collin" Winner="1" />
+    <Match ID="d5106d17656b4c2fbcc773f69e662dd3" Timestamp="11/7/2015 8:13:53 PM" Order="12" Description="challonge - Smash Jam 11 PM Singles" Player1="8_bit_D" Player2="Mexican Tim" Winner="1" />
     <Match ID="e5f5d115e0024b80a5d0b2fb20dfd095" Timestamp="11/7/2015 8:13:53 PM" Order="13" Description="challonge - Smash Jam 11 PM Singles" Player1="Chuck Lubs" Player2="robert otto" Winner="1" />
     <Match ID="7c8de3a207e64e39948586e49a30a25a" Timestamp="11/7/2015 8:13:53 PM" Order="15" Description="challonge - Smash Jam 11 PM Singles" Player1="WORM" Player2="toast" Winner="2" />
     <Match ID="9c4860c9b2ed4e55a027d56f1a64cb4e" Timestamp="11/7/2015 8:13:53 PM" Order="16" Description="challonge - Smash Jam 11 PM Singles" Player1="Landry" Player2="Narbs" Winner="1" />
@@ -258,11 +258,11 @@
     <Match ID="b1f98674d6a94121b397994209b8cb76" Timestamp="11/7/2015 8:13:53 PM" Order="29" Description="challonge - Smash Jam 11 PM Singles" Player1="Fishaman P" Player2="toast" Winner="1" />
     <Match ID="01f3020fa99d41fc9b2630304b718116" Timestamp="11/7/2015 8:13:53 PM" Order="30" Description="challonge - Smash Jam 11 PM Singles" Player1="psychonautqq" Player2="Fishaman P" Winner="1" />
     <Match ID="b38615c3f4cb44f09088d1140e06f224" Timestamp="11/7/2015 8:13:53 PM" Order="33" Description="challonge - Smash Jam 11 PM Singles" Player1="HIV+" Player2="THGN" Winner="2" />
-    <Match ID="75c6d619626f4e6aac80ddfb10815935" Timestamp="11/7/2015 8:13:53 PM" Order="36" Description="challonge - Smash Jam 11 PM Singles" Player1="collin" Player2="robert otto" Winner="1" />
+    <Match ID="75c6d619626f4e6aac80ddfb10815935" Timestamp="11/7/2015 8:13:53 PM" Order="36" Description="challonge - Smash Jam 11 PM Singles" Player1="Mexican Tim" Player2="robert otto" Winner="1" />
     <Match ID="0c90a4c9169f4635a34f3c20180aaeb9" Timestamp="11/7/2015 8:13:53 PM" Order="39" Description="challonge - Smash Jam 11 PM Singles" Player1="8_bit_D" Player2="zwutt" Winner="1" />
     <Match ID="bc031955dc304085bacdc53ae397e28b" Timestamp="11/7/2015 8:13:53 PM" Order="41" Description="challonge - Smash Jam 11 PM Singles" Player1="DrKBlaze" Player2="THGN" Winner="2" />
     <Match ID="09b7845028de45e5aa969bbb3a76028d" Timestamp="11/7/2015 8:13:53 PM" Order="42" Description="challonge - Smash Jam 11 PM Singles" Player1="BurntToast" Player2="Soren" Winner="1" />
-    <Match ID="bfecfcbf46e54956821e1c586b452bfb" Timestamp="11/7/2015 8:13:53 PM" Order="44" Description="challonge - Smash Jam 11 PM Singles" Player1="Meerkat" Player2="collin" Winner="1" />
+    <Match ID="bfecfcbf46e54956821e1c586b452bfb" Timestamp="11/7/2015 8:13:53 PM" Order="44" Description="challonge - Smash Jam 11 PM Singles" Player1="Meerkat" Player2="Mexican Tim" Winner="1" />
     <Match ID="97e397a7c9f6450aaf975891ac871ea8" Timestamp="11/7/2015 8:13:53 PM" Order="45" Description="challonge - Smash Jam 11 PM Singles" Player1="Narbs" Player2="WORM" Winner="1" />
     <Match ID="1363320d2715458582ada1ab5c84f81b" Timestamp="11/7/2015 8:13:53 PM" Order="46" Description="challonge - Smash Jam 11 PM Singles" Player1="Crucialtoast8" Player2="8_bit_D" Winner="2" />
     <Match ID="f1e28d54f9df48e8b036f59bd4102a0f" Timestamp="11/7/2015 8:13:53 PM" Order="47" Description="challonge - Smash Jam 11 PM Singles" Player1="KCBunne" Player2="THGN" Winner="2" />
@@ -284,7 +284,7 @@
     <Match ID="32472701e0c348eaac1ec9a5b505b59d" Timestamp="1/30/2016 5:12:33 PM" Order="3" Description="challonge - Smash Jam 13 Project M singles" Player1="Seen" Player2="CucumberSalad" Winner="1" />
     <Match ID="06847529231647b1a74c3c2f0cc3a5e3" Timestamp="1/30/2016 5:12:33 PM" Order="4" Description="challonge - Smash Jam 13 Project M singles" Player1="DrKBlaze" Player2="WORM" Winner="1" />
     <Match ID="938ce7989e43434f934af52e0a6a20ab" Timestamp="1/30/2016 5:12:33 PM" Order="5" Description="challonge - Smash Jam 13 Project M singles" Player1="oh" Player2="Crucialtoast8" Winner="1" />
-    <Match ID="ac3f8fb98bad44e5989180d355e217da" Timestamp="1/30/2016 5:12:33 PM" Order="6" Description="challonge - Smash Jam 13 Project M singles" Player1="BurntToast" Player2="collin" Winner="1" />
+    <Match ID="ac3f8fb98bad44e5989180d355e217da" Timestamp="1/30/2016 5:12:33 PM" Order="6" Description="challonge - Smash Jam 13 Project M singles" Player1="BurntToast" Player2="Mexican Tim" Winner="1" />
     <Match ID="46b8fbb9463843418e7012b83806f7ae" Timestamp="1/30/2016 5:12:33 PM" Order="7" Description="challonge - Smash Jam 13 Project M singles" Player1="Dysfunkti0nal" Player2="Cryo" Winner="1" />
     <Match ID="88686c030ca24e4b99cbfcb1c3d6cc2e" Timestamp="1/30/2016 5:12:33 PM" Order="8" Description="challonge - Smash Jam 13 Project M singles" Player1="8_bit_D" Player2="Symphonic Salute" Winner="1" />
     <Match ID="a314149907ad4b69ab1f44a3a7e69ae4" Timestamp="1/30/2016 5:12:33 PM" Order="9" Description="challonge - Smash Jam 13 Project M singles" Player1="Narbs" Player2="Flux" Winner="2" />
@@ -297,10 +297,10 @@
     <Match ID="73aeac76ef114f55a11db0387643293c" Timestamp="1/30/2016 5:12:33 PM" Order="16" Description="challonge - Smash Jam 13 Project M singles" Player1="Dysfunkti0nal" Player2="Flux" Winner="1" />
     <Match ID="6566ddffff234eab9f9f7fa5c775db77" Timestamp="1/30/2016 5:12:33 PM" Order="17" Description="challonge - Smash Jam 13 Project M singles" Player1="Seen" Player2="Dysfunkti0nal" Winner="1" />
     <Match ID="8956f1ca5bbe456282dbfbbe2368efa5" Timestamp="1/30/2016 5:12:33 PM" Order="18" Description="challonge - Smash Jam 13 Project M singles" Player1="Chuck Lubs" Player2="n00b" Winner="1" />
-    <Match ID="cf49b4ade60440b7ba6529c1c54a4a74" Timestamp="1/30/2016 5:12:33 PM" Order="19" Description="challonge - Smash Jam 13 Project M singles" Player1="collin" Player2="KCBunne" Winner="1" />
+    <Match ID="cf49b4ade60440b7ba6529c1c54a4a74" Timestamp="1/30/2016 5:12:33 PM" Order="19" Description="challonge - Smash Jam 13 Project M singles" Player1="Mexican Tim" Player2="KCBunne" Winner="1" />
     <Match ID="4725b1abcb864ef5966d0865def53437" Timestamp="1/30/2016 5:12:33 PM" Order="20" Description="challonge - Smash Jam 13 Project M singles" Player1="Narbs" Player2="Chuck Lubs" Winner="1" />
     <Match ID="4ac486b4d646480aa3024100e9f09549" Timestamp="1/30/2016 5:12:33 PM" Order="21" Description="challonge - Smash Jam 13 Project M singles" Player1="Symphonic Salute" Player2="Cryo" Winner="2" />
-    <Match ID="9d8be941b1674ac1b760ebf251d62894" Timestamp="1/30/2016 5:12:33 PM" Order="22" Description="challonge - Smash Jam 13 Project M singles" Player1="Crucialtoast8" Player2="collin" Winner="1" />
+    <Match ID="9d8be941b1674ac1b760ebf251d62894" Timestamp="1/30/2016 5:12:33 PM" Order="22" Description="challonge - Smash Jam 13 Project M singles" Player1="Crucialtoast8" Player2="Mexican Tim" Winner="1" />
     <Match ID="e729ea7bbad64383a1e53bad0b604521" Timestamp="1/30/2016 5:12:33 PM" Order="23" Description="challonge - Smash Jam 13 Project M singles" Player1="WORM" Player2="CucumberSalad" Winner="1" />
     <Match ID="96088a5a3ef542e7b51a32ee3405aee3" Timestamp="1/30/2016 5:12:33 PM" Order="24" Description="challonge - Smash Jam 13 Project M singles" Player1="oh" Player2="Narbs" Winner="2" />
     <Match ID="e4fc7ca263884d2b82fe52f02f5bd377" Timestamp="1/30/2016 5:12:33 PM" Order="25" Description="challonge - Smash Jam 13 Project M singles" Player1="DrKBlaze" Player2="Cryo" Winner="1" />
