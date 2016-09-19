@@ -17,18 +17,18 @@
     <Player Name="Bawk" Team="Dubuque" Invisible="false" Characters="" Alts="bawk" />
     <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Snow" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="D-Ricky" Team="Galena" Invisible="false" Characters="" Alts="D_Rickyy" />
     <Player Name="Art" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D" />
+    <Player Name="Snow" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Moo3" Team="La Crosse" Invisible="false" Characters="" Alts="Simple" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="KH" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Rawizard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Neefe" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Neefe" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Apparatus" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="1N" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
@@ -848,7 +848,6 @@
     <Match ID="3d8bcd84915e403db505364b32fcb337" Timestamp="9/17/2016 4:19:32 PM" Order="27" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Crucialtoast8" Player2="Neefe" Winner="2" />
     <Match ID="1a02e101af394447984a951fa4f6ff13" Timestamp="9/17/2016 4:19:32 PM" Order="28" Description="challonge - Smash Jam 17 Wii U Singles" Player1="n00b" Player2="Apparatus" Winner="2" />
     <Match ID="cfe76cef3f824ff59402b9500d59ebf8" Timestamp="9/17/2016 4:19:32 PM" Order="29" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Phoenix" Player2="InkyMoon" Winner="2" />
-    <Match ID="d737c1a1daa846578d43df2294f809cf" Timestamp="9/17/2016 4:19:32 PM" Order="30" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Snow" Player2="Mexican Tim" Winner="1" />
     <Match ID="9e9f8a54df2449ca94a5dad2f7622f37" Timestamp="9/17/2016 4:19:32 PM" Order="31" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Chase" Player2="Neefe" Winner="2" />
     <Match ID="bb1d95c228a94f778b85e2d17afbcdc0" Timestamp="9/17/2016 4:19:32 PM" Order="32" Description="challonge - Smash Jam 17 Wii U Singles" Player1="G" Player2="Jim" Winner="1" />
     <Match ID="f2ed9933d1d147d6bf408f51746f4992" Timestamp="9/17/2016 4:19:32 PM" Order="33" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Dickey" Player2="Retz" Winner="2" />

@@ -16,10 +16,10 @@
     <Player Name="@TryceBlazer" Team="Madison" Invisible="false" Characters="" Alts="@teh_blazerer" />
     <Player Name="Dickey" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dream" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;8_Bit_D;CHMRA | 8_bit_D" />
-    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dream" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="MVG Inui" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Fluxator" Team="Janesville" Invisible="false" Characters="" Alts="Flux" />
     <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;DrKBlaze (BC)" />
@@ -28,34 +28,32 @@
     <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="ChuckLubs;Charlie_609;Chuck Lubz;Chuck Lubbs" />
     <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Scrublord" Team="Quad Cities" Invisible="false" Characters="" Alts="scrublord" />
     <Player Name="LightsOutAce" Team="Madison" Invisible="false" Characters="" Alts="yolosniper" />
+    <Player Name="Scrublord" Team="Quad Cities" Invisible="false" Characters="" Alts="scrublord" />
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="gibby" />
     <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="Duck;narbs" />
     <Player Name="rat" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="StaXxX" Team="La Crosse" Invisible="false" Characters="" Alts="Staxxx;Staxx" />
     <Player Name="bauz" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="Stowaway" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Dysfunk;Functional" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="hogosha" />
+    <Player Name="StaXxX" Team="La Crosse" Invisible="false" Characters="" Alts="Staxxx;Staxx" />
     <Player Name="4PG Ch0ice" Team="Milwaukee" Invisible="false" Characters="" Alts="" />
     <Player Name="AIDS" Team="Platteville" Invisible="false" Characters="" Alts="aids" />
     <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM;ZUNE | WORM;Slime" />
     <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="supermrjmt" />
     <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Brik Stone" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="Taylor" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Doob" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="ruku" Team="Eau Claire" Invisible="false" Characters="" Alts="Runge-Kutta" />
     <Player Name="Udagawa" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast;burnttoast" />
     <Player Name="jorge" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="TKLN" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Collin" />
     <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="tamerlane" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="danzdaman" Team="" Invisible="false" Characters="" Alts="" />
@@ -67,12 +65,14 @@
     <Player Name="Cardboardbear" Team="" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard;cruicialtoast8" />
     <Player Name="broseph" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
+    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Collin" />
     <Player Name="knock knock" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Riku" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="TKLN" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
@@ -1236,7 +1236,6 @@
     <Match ID="064ed2a579ef4ef6bed7fb1ccf2507f1" Timestamp="9/17/2016 9:00:06 PM" Order="7" Description="challonge - Smash Jam 17 Melee Singles" Player1="DrKBlaze" Player2="wafflicious" Winner="1" />
     <Match ID="724862773f45443187eb77046558f4ea" Timestamp="9/17/2016 9:00:06 PM" Order="8" Description="challonge - Smash Jam 17 Melee Singles" Player1="Fluxator" Player2="n00b" Winner="1" />
     <Match ID="99b921d3e4f54b3299fb1960adce3701" Timestamp="9/17/2016 9:00:06 PM" Order="9" Description="challonge - Smash Jam 17 Melee Singles" Player1="Skut" Player2="KCBunne" Winner="2" />
-    <Match ID="cd1f32d0ba4f440f8b6352b138599a61" Timestamp="9/17/2016 9:00:06 PM" Order="10" Description="challonge - Smash Jam 17 Melee Singles" Player1="TKLN" Player2="Chase" Winner="1" />
     <Match ID="4033e93eba394102b530dad6b2e601a6" Timestamp="9/17/2016 9:00:06 PM" Order="11" Description="challonge - Smash Jam 17 Melee Singles" Player1="Dream" Player2="Dio" Winner="1" />
     <Match ID="8dcacf67aca0475dbc965c116b508000" Timestamp="9/17/2016 9:00:06 PM" Order="12" Description="challonge - Smash Jam 17 Melee Singles" Player1="Cardboardbear" Player2="HeadRipOffMan" Winner="1" />
     <Match ID="a6bd30e855614793abd7d6196871dc12" Timestamp="9/17/2016 9:00:06 PM" Order="13" Description="challonge - Smash Jam 17 Melee Singles" Player1="Captain Trips" Player2="Jim" Winner="1" />
@@ -1280,7 +1279,6 @@
     <Match ID="5ebc42f987d848d4bbceed69238cb510" Timestamp="9/17/2016 9:00:06 PM" Order="51" Description="challonge - Smash Jam 17 Melee Singles" Player1="Fluxator" Player2="wafflicious" Winner="1" />
     <Match ID="04f63cc86e214d3ca824e04f11bb90d2" Timestamp="9/17/2016 9:00:06 PM" Order="52" Description="challonge - Smash Jam 17 Melee Singles" Player1="DrKBlaze" Player2="n00b" Winner="1" />
     <Match ID="8f7445dc6bda4ff9842da4cc9d6de2f0" Timestamp="9/17/2016 9:00:06 PM" Order="53" Description="challonge - Smash Jam 17 Melee Singles" Player1="Chuck Lubs" Player2="Skut" Winner="1" />
-    <Match ID="29cca3b3345c4625ae25e49016c9ba47" Timestamp="9/17/2016 9:00:06 PM" Order="54" Description="challonge - Smash Jam 17 Melee Singles" Player1="Mexican Tim" Player2="Chase" Winner="1" />
     <Match ID="67525a89fe544c048e9f41ab8cc4c98e" Timestamp="9/17/2016 9:00:06 PM" Order="55" Description="challonge - Smash Jam 17 Melee Singles" Player1="Taylor" Player2="Dio" Winner="1" />
     <Match ID="6255a4f43f6b4e899289fbaa92fe0d4b" Timestamp="9/17/2016 9:00:06 PM" Order="56" Description="challonge - Smash Jam 17 Melee Singles" Player1="Flatline" Player2="HeadRipOffMan" Winner="1" />
     <Match ID="ed7450946c63410fbc24f70375479a72" Timestamp="9/17/2016 9:00:06 PM" Order="57" Description="challonge - Smash Jam 17 Melee Singles" Player1="Crucialtoast8" Player2="Jim" Winner="2" />
