@@ -33,7 +33,7 @@
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="gibby" />
     <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="Duck;narbs" />
     <Player Name="rat" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="bauz" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="bauz" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
     <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="Stowaway" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
@@ -45,9 +45,9 @@
     <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM;ZUNE | WORM;Slime" />
     <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="supermrjmt" />
     <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Brik Stone" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Brik Stone" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
     <Player Name="Taylor" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Doob" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Doob" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
     <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="ruku" Team="Eau Claire" Invisible="false" Characters="" Alts="Runge-Kutta" />
     <Player Name="Udagawa" Team="La Crosse" Invisible="false" Characters="" Alts="" />
@@ -57,12 +57,12 @@
     <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="tamerlane" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="danzdaman" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="D-Money" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Soul" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="D-Money" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Soul" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="nick" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Jim" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Jim" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="EMP" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Cardboardbear" Team="" Invisible="false" Characters="" Alts="CardboardBear" />
+    <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard;cruicialtoast8" />
     <Player Name="broseph" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Collin" />
@@ -72,7 +72,7 @@
     <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="TKLN" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />

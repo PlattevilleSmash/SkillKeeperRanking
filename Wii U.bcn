@@ -13,46 +13,46 @@
     <Player Name="G" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Prophet" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Fons" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Bawk" Team="Dubuque" Invisible="false" Characters="" Alts="bawk" />
+    <Player Name="Fons" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="D-Ricky" Team="Galena" Invisible="false" Characters="" Alts="D_Rickyy" />
+    <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Art" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Moo3" Team="La Crosse" Invisible="false" Characters="" Alts="Simple" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D" />
     <Player Name="Snow" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Moo3" Team="La Crosse" Invisible="false" Characters="" Alts="Simple" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="KH" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Rawizard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Neefe" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Apparatus" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Apparatus" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="1N" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="MVG Inui" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Retz" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Fluxator" Team="" Invisible="false" Characters="" Alts="Flux" />
+    <Player Name="Retz" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="JJm" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Lucifer765" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Chase" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Fluxator" Team="" Invisible="false" Characters="" Alts="Flux" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Twinkie" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Torizo" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Twinkie" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Guts" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="tlivingston" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Timez" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="lightsoutace" Team="Madison" Invisible="false" Characters="" Alts="LightsOutAce" />
+    <Player Name="Torizo" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;KRB | Dysfunkti0nal;Dysfunk" />
-    <Player Name="InkyMoon" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="InkyMoon" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dickey" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Darkev" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Pok3monRocks" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Brosef Stalin" Team="" Invisible="false" Characters="" Alts="Brohandas Gandhi;Bro Montana" />
+    <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Pok3monRocks" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dickey" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Darkev" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Jabes" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
@@ -64,8 +64,8 @@
     <Player Name="HackAttack" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="HCMatt" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="cwagon" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Kram" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="cwagon" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Keng" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="midget" Team="" Invisible="false" Characters="" Alts="Midget" />
@@ -152,10 +152,10 @@
     <Player Name="GGthelegend" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Shepard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr Mario" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Nick" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Seen" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Jim" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Phoenix" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Nick" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Jim" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Phoenix" Team="Dubuque" Invisible="false" Characters="" Alts="" />
   </Players>
   <Matches>
     <Match ID="73714b23609a4e55a9c9a07d51c25c86" Timestamp="10/18/2014 12:00:00 AM" Order="1" Description="challonge - Platteville Smash Jam 2: Smash 4" Player1="Torizo" Player2="Meerkat" Winner="2" />
