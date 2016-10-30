@@ -2,52 +2,60 @@
 <SK92>
   <Settings Multiplier="200" MinMatches="1" Decay="2" DecayValue="2" />
   <Players>
+    <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Kendrick" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="WaterMint" Team="Madison" Invisible="false" Characters="" Alts="Watermint" />
+    <Player Name="Dream" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="D-Money" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="seen" />
-    <Player Name="Simple" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Ryou" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="" />
     <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="WaterMint" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Functional" />
-    <Player Name="Dream" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="seen" />
+    <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Functional" />
+    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="Chuck Lubz;🏆⏩Сʜᴜᴄκ Ꮮᴜʙѕ 👀" />
+    <Player Name="Simple" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="" />
     <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
+    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;CG DrKBlaze" />
     <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="Chuck Lubz" />
-    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast" />
-    <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="narbs" />
+    <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Seth" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Saucy" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="narbs" />
+    <Player Name="G" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dbag" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="CardboardBear" Team="" Invisible="false" Characters="" Alts="Cardboardbear" />
     <Player Name="Who" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Gary" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="toast" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Gary" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="TKLN" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Ho" />
     <Player Name="THGN" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Cole" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="IronSonic" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Twinkie" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="yolosniperking" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
+    <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="N00b" />
+    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
     <Player Name="InkyMoon" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze" />
     <Player Name="Scrublord" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="ZUNE | WORM;CCAT | WORM" />
-    <Player Name="CardboardBear" Team="" Invisible="false" Characters="" Alts="Cardboardbear" />
     <Player Name="Dady" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS Meerkat;VGS | Meerkat" />
     <Player Name="Cryo" Team="" Invisible="false" Characters="" Alts="" />
@@ -90,12 +98,12 @@
     <Player Name="robert otto" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Knock Knock" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Symphonic Salute" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Piqui" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Shepard" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr Mario" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Twinkie" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="HeadRipOffMan" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="WoodwardSam" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Hunter" Team="" Invisible="false" Characters="" Alts="" />
   </Players>
   <Matches>
     <Match ID="478ea2588c3d4621b5e4d7ae72e58b99" Timestamp="9/27/2014 12:44:23 AM" Order="1" Description="challonge - Platteville Smash Jam 1: PM" Player1="CUTE" Player2="Jin" Winner="1" />
@@ -415,5 +423,38 @@
     <Match ID="b45884fd3161456a8f5edd115dc7b457" Timestamp="9/17/2016 9:28:37 PM" Order="39" Description="challonge - Smash Jam 17 Project M Singles" Player1="Simple" Player2="SuperMrJMT" Winner="2" />
     <Match ID="3ec0ee0a04a64db49e8b526c17fdd4c3" Timestamp="9/17/2016 9:28:37 PM" Order="40" Description="challonge - Smash Jam 17 Project M Singles" Player1="D-Money" Player2="SuperMrJMT" Winner="2" />
     <Match ID="b3921a745d674ad491cd2f9c2c9762db" Timestamp="9/17/2016 9:28:37 PM" Order="41" Description="challonge - Smash Jam 17 Project M Singles" Player1="Fishaman P" Player2="SuperMrJMT" Winner="1" />
+    <Match ID="db6cb35f1d084037b3afd40953d7f237" Timestamp="10/29/2016 4:14:48 PM" Order="1" Description="challonge - Smash Jam 19 Project M Singles" Player1="Saucy" Player2="WoodwardSam" Winner="1" />
+    <Match ID="939f34df2ca741a0a8f627a5a54b7223" Timestamp="10/29/2016 4:14:48 PM" Order="2" Description="challonge - Smash Jam 19 Project M Singles" Player1="Twinkie" Player2="Hunter" Winner="1" />
+    <Match ID="a0c26872bfbe4526b07fe9584e353ce3" Timestamp="10/29/2016 4:14:48 PM" Order="3" Description="challonge - Smash Jam 19 Project M Singles" Player1="Kendrick" Player2="Saucy" Winner="1" />
+    <Match ID="129bf7779d704fe797aadc744337db9a" Timestamp="10/29/2016 4:14:48 PM" Order="4" Description="challonge - Smash Jam 19 Project M Singles" Player1="CardboardBear" Player2="Crucialtoast8" Winner="1" />
+    <Match ID="a662b5b8c7c3431e8a75d229c1ec2b30" Timestamp="10/29/2016 4:14:48 PM" Order="5" Description="challonge - Smash Jam 19 Project M Singles" Player1="Zen" Player2="G" Winner="1" />
+    <Match ID="e1ae8b53b3914909b858376b29fffd99" Timestamp="10/29/2016 4:14:48 PM" Order="6" Description="challonge - Smash Jam 19 Project M Singles" Player1="Poskii" Player2="Cole" Winner="1" />
+    <Match ID="e031b7c3604e415288ee747d95628470" Timestamp="10/29/2016 4:14:48 PM" Order="7" Description="challonge - Smash Jam 19 Project M Singles" Player1="WaterMint" Player2="Twinkie" Winner="1" />
+    <Match ID="b8fdfe9a25804282a2ba915ccf9fd854" Timestamp="10/29/2016 4:14:48 PM" Order="8" Description="challonge - Smash Jam 19 Project M Singles" Player1="DrKBlaze" Player2="TKLN" Winner="1" />
+    <Match ID="906d57f1edc941a8be45a43b7b228d9d" Timestamp="10/29/2016 4:14:48 PM" Order="9" Description="challonge - Smash Jam 19 Project M Singles" Player1="Dream" Player2="Dbag" Winner="1" />
+    <Match ID="34b80dffc7e64decaa32c586ff2195d8" Timestamp="10/29/2016 4:14:48 PM" Order="10" Description="challonge - Smash Jam 19 Project M Singles" Player1="Chuck Lubs" Player2="n00b" Winner="1" />
+    <Match ID="db0e312230cd4a8b88abc9ddec323484" Timestamp="10/29/2016 4:14:48 PM" Order="11" Description="challonge - Smash Jam 19 Project M Singles" Player1="Kendrick" Player2="CardboardBear" Winner="1" />
+    <Match ID="dc3b93d789ef4436a47615579bc2599c" Timestamp="10/29/2016 4:14:48 PM" Order="12" Description="challonge - Smash Jam 19 Project M Singles" Player1="Zen" Player2="Poskii" Winner="2" />
+    <Match ID="b094188c52f8402d8a8cfa885488dc8a" Timestamp="10/29/2016 4:14:48 PM" Order="13" Description="challonge - Smash Jam 19 Project M Singles" Player1="WaterMint" Player2="DrKBlaze" Winner="1" />
+    <Match ID="eddce3a5ba514282a82d4dd1a95eed7d" Timestamp="10/29/2016 4:14:48 PM" Order="14" Description="challonge - Smash Jam 19 Project M Singles" Player1="Dream" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="7a0366c5205147c693e51861514b5892" Timestamp="10/29/2016 4:14:48 PM" Order="15" Description="challonge - Smash Jam 19 Project M Singles" Player1="Kendrick" Player2="Poskii" Winner="1" />
+    <Match ID="0fc277e3a3524b6a91dcfae5ec56ca01" Timestamp="10/29/2016 4:14:48 PM" Order="16" Description="challonge - Smash Jam 19 Project M Singles" Player1="WaterMint" Player2="Dream" Winner="2" />
+    <Match ID="cd7099838243470ea3bdc5f1e7b69110" Timestamp="10/29/2016 4:14:48 PM" Order="17" Description="challonge - Smash Jam 19 Project M Singles" Player1="Kendrick" Player2="Dream" Winner="1" />
+    <Match ID="2d43248f194a4d818872ebc68ffb23c0" Timestamp="10/29/2016 4:14:48 PM" Order="18" Description="challonge - Smash Jam 19 Project M Singles" Player1="n00b" Player2="WoodwardSam" Winner="1" />
+    <Match ID="02868f95309d42b7bbd6cac387d21612" Timestamp="10/29/2016 4:14:48 PM" Order="19" Description="challonge - Smash Jam 19 Project M Singles" Player1="Cole" Player2="Hunter" Winner="1" />
+    <Match ID="a2573f2efea546a0b319788850062627" Timestamp="10/29/2016 4:14:48 PM" Order="20" Description="challonge - Smash Jam 19 Project M Singles" Player1="Dbag" Player2="n00b" Winner="1" />
+    <Match ID="6193ffac705642558f100886f4304590" Timestamp="10/29/2016 4:14:48 PM" Order="21" Description="challonge - Smash Jam 19 Project M Singles" Player1="TKLN" Player2="Twinkie" Winner="1" />
+    <Match ID="41ac2d6a13ae4cdc94f70dd918813735" Timestamp="10/29/2016 4:14:48 PM" Order="22" Description="challonge - Smash Jam 19 Project M Singles" Player1="G" Player2="Cole" Winner="1" />
+    <Match ID="e769faf235ff43f492a5096e4e6c44a6" Timestamp="10/29/2016 4:14:48 PM" Order="23" Description="challonge - Smash Jam 19 Project M Singles" Player1="Crucialtoast8" Player2="Saucy" Winner="2" />
+    <Match ID="abca55c3c1014c198ae916671be7518f" Timestamp="10/29/2016 4:14:48 PM" Order="24" Description="challonge - Smash Jam 19 Project M Singles" Player1="Zen" Player2="Dbag" Winner="1" />
+    <Match ID="9c7528eb23204aab8560cde6f4e06f3e" Timestamp="10/29/2016 4:14:48 PM" Order="25" Description="challonge - Smash Jam 19 Project M Singles" Player1="CardboardBear" Player2="TKLN" Winner="1" />
+    <Match ID="0a3c188c26cd4119913bcefd1e2e1c98" Timestamp="10/29/2016 4:14:48 PM" Order="26" Description="challonge - Smash Jam 19 Project M Singles" Player1="Chuck Lubs" Player2="G" Winner="1" />
+    <Match ID="2602858666f2463e9ed9045af8784637" Timestamp="10/29/2016 4:14:48 PM" Order="27" Description="challonge - Smash Jam 19 Project M Singles" Player1="DrKBlaze" Player2="Saucy" Winner="1" />
+    <Match ID="95d5c6f71c624d2b9061aef739a21e10" Timestamp="10/29/2016 4:14:48 PM" Order="28" Description="challonge - Smash Jam 19 Project M Singles" Player1="Zen" Player2="CardboardBear" Winner="1" />
+    <Match ID="f67dc0d5659a4794b7d83f96d298140c" Timestamp="10/29/2016 4:14:48 PM" Order="29" Description="challonge - Smash Jam 19 Project M Singles" Player1="Chuck Lubs" Player2="DrKBlaze" Winner="1" />
+    <Match ID="38ccc4dfe2cd4ec582614d255cf81fff" Timestamp="10/29/2016 4:14:48 PM" Order="30" Description="challonge - Smash Jam 19 Project M Singles" Player1="WaterMint" Player2="Zen" Winner="1" />
+    <Match ID="63c8dceab4c9484cb789750ffa058390" Timestamp="10/29/2016 4:14:48 PM" Order="31" Description="challonge - Smash Jam 19 Project M Singles" Player1="Poskii" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="daf397664d02431cba8ecaf5029c6b50" Timestamp="10/29/2016 4:14:48 PM" Order="32" Description="challonge - Smash Jam 19 Project M Singles" Player1="WaterMint" Player2="Poskii" Winner="2" />
+    <Match ID="6c5ada60562c442fb6d4a57d7743d1d7" Timestamp="10/29/2016 4:14:48 PM" Order="33" Description="challonge - Smash Jam 19 Project M Singles" Player1="Dream" Player2="Poskii" Winner="2" />
   </Matches>
 </SK92>
