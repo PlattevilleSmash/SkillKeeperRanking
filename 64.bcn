@@ -6,20 +6,21 @@
     <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="🏆⏩Сʜᴜᴄκ Ꮮᴜʙѕ 👀" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D" />
-    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U" />
+    <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;CG | 8_bit_D" />
+    <Player Name="YELLOWYOSHI.ZIP" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
+    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U" />
     <Player Name="Spence" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;CG | DrKBlaze" />
     <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal" />
-    <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="DanS" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Spencer" Team="Janesville" Invisible="false" Characters="" Alts="" />
-    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="LordEnglish" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM" />
     <Player Name="Bock" Team="" Invisible="false" Characters="" Alts="BOCK" />
@@ -261,5 +262,13 @@
     <Match ID="fa020b52b87146ff939bc03f2f28a600" Timestamp="10/8/2016 6:08:08 PM" Order="16" Description="challonge - Smash Jam 18 Smash 64 Singles" Player1="Mexican Tim" Player2="TKLN" Winner="1" />
     <Match ID="668273f14b534196ac87c1eff7ddacca" Timestamp="10/8/2016 6:08:08 PM" Order="17" Description="challonge - Smash Jam 18 Smash 64 Singles" Player1="Chuck Lubs" Player2="Mexican Tim" Winner="1" />
     <Match ID="1c6b915b44cb469cbe10af4ed621bf4e" Timestamp="10/8/2016 6:08:08 PM" Order="18" Description="challonge - Smash Jam 18 Smash 64 Singles" Player1="Meerkat" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="9699889ebed8405680ad5279513d11a4" Timestamp="11/5/2016 4:16:57 PM" Order="1" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="DrKBlaze" Player2="BurntToast" Winner="1" />
+    <Match ID="db61a329629c42a3b5b804661e0ed6b3" Timestamp="11/5/2016 4:16:57 PM" Order="2" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="Zen" Player2="YELLOWYOSHI.ZIP" Winner="2" />
+    <Match ID="23388e809e734356910f076db3e28e7e" Timestamp="11/5/2016 4:16:57 PM" Order="3" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="Chuck Lubs" Player2="DrKBlaze" Winner="1" />
+    <Match ID="d232a1ace8e64da282e6c0228efcbe5d" Timestamp="11/5/2016 4:16:57 PM" Order="4" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="8_bit_D" Player2="YELLOWYOSHI.ZIP" Winner="1" />
+    <Match ID="5275943c0b5a4b8b8acd7f7f39afc6f5" Timestamp="11/5/2016 4:16:57 PM" Order="5" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="Chuck Lubs" Player2="8_bit_D" Winner="1" />
+    <Match ID="b0aab545abf7408c894db60ba97922a0" Timestamp="11/5/2016 4:16:57 PM" Order="6" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="YELLOWYOSHI.ZIP" Player2="BurntToast" Winner="1" />
+    <Match ID="a40b14e86b8e4b0996ed27bf4309c8e4" Timestamp="11/5/2016 4:16:57 PM" Order="7" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="DrKBlaze" Player2="Zen" Winner="1" />
+    <Match ID="c1d3121ead894aaf894e588c45a099cf" Timestamp="11/5/2016 4:16:57 PM" Order="8" Description="challonge - Smash Jam 20 Smash 64 Singles" Player1="YELLOWYOSHI.ZIP" Player2="DrKBlaze" Winner="1" />
   </Matches>
 </SK92>
