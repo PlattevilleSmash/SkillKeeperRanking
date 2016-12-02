@@ -5,14 +5,13 @@
     <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Oh;Ho" />
     <Player Name="Kendrick" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="Mellow | Mike" />
+    <Player Name="Ryou" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Simple" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Ryou" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Dream" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="Fluxator" />
+    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Spence" Team="La Crosse" Invisible="false" Characters="" Alts="Spencilence" />
-    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="MH | QTIP" />
     <Player Name="@TryceBlazer" Team="Madison" Invisible="false" Characters="" Alts="@teh_blazerer" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;8_Bit_D;CHMRA | 8_bit_D;CG | 8_bit_D" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
@@ -23,54 +22,54 @@
     <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
     <Player Name="MVG Inui" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Scrublord" Team="Quad Cities" Invisible="false" Characters="" Alts="scrublord" />
+    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast;burnttoast" />
     <Player Name="LordEnglish" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Jon$" Team="Milwaukee" Invisible="false" Characters="" Alts="EHG Jon$;EHG | Jon$" />
-    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="burntToast;burnttoast" />
     <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Dickey" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="LightsOutAce" Team="Madison" Invisible="false" Characters="" Alts="yolosniper" />
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="gibby" />
     <Player Name="rat" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="bauz" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="AIDS" Team="Platteville" Invisible="false" Characters="" Alts="aids" />
-    <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Flatline" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="MH | QTIP" />
     <Player Name="4PG Ch0ice" Team="Milwaukee" Invisible="false" Characters="" Alts="" />
     <Player Name="psychonautqq" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Brik Stone" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
-    <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="Duck;narbs" />
-    <Player Name="Watermint" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="KCBunne" Team="Platteville" Invisible="false" Characters="" Alts="KCbunne" />
+    <Player Name="AIDS" Team="Platteville" Invisible="false" Characters="" Alts="aids" />
+    <Player Name="FrozenPizza" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Watermint" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="Duck;narbs" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="hogosha" />
     <Player Name="Doob" Team="Cedar Falls" Invisible="false" Characters="" Alts="" />
     <Player Name="ruku" Team="Eau Claire" Invisible="false" Characters="" Alts="Runge-Kutta" />
     <Player Name="Udagawa" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;Dysfunk;Functional" />
-    <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="Stowaway" />
-    <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
-    <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Saucy" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="StaXxX" Team="La Crosse" Invisible="false" Characters="" Alts="Staxxx;Staxx" />
+    <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="Stowaway" />
+    <Player Name="Captain Trips" Team="Baraboo" Invisible="false" Characters="" Alts="" />
     <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM;ZUNE | WORM;Slime" />
     <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear" />
+    <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="supermrjmt" />
     <Player Name="tamerlane" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="danzdaman" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="supermrjmt" />
+    <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear" />
     <Player Name="nick" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="EMP" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="broseph" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
-    <Player Name="Taylor" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="BotGrant;N00b" />
-    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard;cruicialtoast8" />
     <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U;Collin" />
+    <Player Name="n00b" Team="Platteville" Invisible="false" Characters="" Alts="BotGrant;N00b" />
+    <Player Name="broseph" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
+    <Player Name="Phunky Sal" Team="Platteville" Invisible="false" Characters="" Alts="Symphonic Salute;Justin;SymphonicSalute" />
+    <Player Name="Taylor" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="knock knock" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Riku" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Phunky Sal" Team="Platteville" Invisible="false" Characters="" Alts="Symphonic Salute;Justin;SymphonicSalute" />
     <Player Name="Captain" Team="Platteville" Invisible="false" Characters="" Alts="The Captain" />
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
@@ -81,12 +80,13 @@
     <Player Name="sc30" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Logic" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Torizo" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8;crucialtoast8;crucialtoast;ObamaIsALizard;cruicialtoast8" />
     <Player Name="midget" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="erin" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="umbr" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="jorge" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="cute" />
     <Player Name="Slottmachine" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="jorge" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="PowPow" Team="La Crosse" Invisible="false" Characters="" Alts="" />
     <Player Name="Brx" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="D-Money" Team="Madison" Invisible="false" Characters="" Alts="" />
@@ -1197,40 +1197,6 @@
     <Match ID="0eb374e2a0c84b8bbcbb5e5ae14ec70a" Timestamp="4/23/2016 6:41:22 PM" Order="34" Description="challonge - Smash Jam 16 Melee Singles" Player1="QTIP" Player2="Narbs" Winner="1" />
     <Match ID="f79bdcd4bce74d33b2190fdf014b37ea" Timestamp="4/23/2016 6:41:22 PM" Order="35" Description="challonge - Smash Jam 16 Melee Singles" Player1="Poskii" Player2="QTIP" Winner="2" />
     <Match ID="35b5a6cf20b048728198fe38e22cb68b" Timestamp="4/23/2016 6:41:22 PM" Order="36" Description="challonge - Smash Jam 16 Melee Singles" Player1="oh" Player2="QTIP" Winner="1" />
-    <Match ID="5df162e46b9548d0988a8701405c3013" Timestamp="9/11/2016 10:10:31 PM" Order="1" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="QTIP" Player2="Zen" Winner="1" />
-    <Match ID="2097b53fd9d34371aa7633628c28d77e" Timestamp="9/11/2016 10:10:31 PM" Order="2" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Poskii" Player2="Monkey" Winner="1" />
-    <Match ID="dc55d048673d408f933bfb8372698fe2" Timestamp="9/11/2016 10:10:31 PM" Order="3" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Kendrick" Player2="Chuck Lubs" Winner="1" />
-    <Match ID="6fdb02c3a95c440dbe8c5bcdf6c2b4ec" Timestamp="9/11/2016 10:10:31 PM" Order="4" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="oh" Player2="QTIP" Winner="1" />
-    <Match ID="f8b6f56ed76e42a7a2bd0acee9c2295e" Timestamp="9/11/2016 10:10:31 PM" Order="5" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Poskii" Player2="Kendrick" Winner="2" />
-    <Match ID="a8249e66aa194a9c975e60d3b8967f1e" Timestamp="9/11/2016 10:10:31 PM" Order="6" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="oh" Player2="Kendrick" Winner="2" />
-    <Match ID="f8751139faa54c0aa900cdb19d71bd7b" Timestamp="9/11/2016 10:10:31 PM" Order="7" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Monkey" Player2="Chuck Lubs" Winner="2" />
-    <Match ID="70d5c1c350f642f49603e5f0795a8fc4" Timestamp="9/11/2016 10:10:31 PM" Order="8" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Poskii" Player2="Zen" Winner="1" />
-    <Match ID="c75c4d6317054f87a19fd446d7ea42c5" Timestamp="9/11/2016 10:10:31 PM" Order="9" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="QTIP" Player2="Chuck Lubs" Winner="1" />
-    <Match ID="e314deaedb454bdc9da293172230e87d" Timestamp="9/11/2016 10:10:31 PM" Order="10" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Poskii" Player2="QTIP" Winner="2" />
-    <Match ID="dbf9f9872d294fad8161fd50bb963291" Timestamp="9/11/2016 10:10:31 PM" Order="11" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="oh" Player2="QTIP" Winner="2" />
-    <Match ID="ca63141c03df46d7a099bcb237f4d18a" Timestamp="9/11/2016 10:10:31 PM" Order="12" Description="challonge - Smash Jam Was An Inside Job Singles #1 9/11/2016" Player1="Kendrick" Player2="QTIP" Winner="1" />
-    <Match ID="af3e06a8335e43bab3df6f655d736518" Timestamp="9/16/2016 11:04:56 PM" Order="1" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Crucialtoast8" Player2="StowAway" Winner="2" />
-    <Match ID="517cac145e1c473abfdbdb9d04824971" Timestamp="9/16/2016 11:04:56 PM" Order="2" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Chuck Lubs" Player2="n00b" Winner="1" />
-    <Match ID="8c07141febc0450980e341997e5a9d32" Timestamp="9/16/2016 11:04:56 PM" Order="3" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="waffleicious" Player2="AIDS" Winner="2" />
-    <Match ID="0676f6d546a34812ba5d3608c64cfb6e" Timestamp="9/16/2016 11:04:56 PM" Order="4" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Mexican Tim" Player2="KCBunne" Winner="2" />
-    <Match ID="4a3b69509a7f489ab2155c3d6d32ff01" Timestamp="9/16/2016 11:04:56 PM" Order="5" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Kendrick" Player2="StowAway" Winner="1" />
-    <Match ID="691897fd115e44c99bbb8a8731747305" Timestamp="9/16/2016 11:04:56 PM" Order="6" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="8_bit_D" Player2="Chuck Lubs" Winner="1" />
-    <Match ID="7108310e87e44dd2acb6edf43d515b96" Timestamp="9/16/2016 11:04:56 PM" Order="7" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Poskii" Player2="AIDS" Winner="1" />
-    <Match ID="11470361e1be4a8693edf52539a823af" Timestamp="9/16/2016 11:04:56 PM" Order="8" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Zen" Player2="KCBunne" Winner="1" />
-    <Match ID="ab783d6d95154409afe24da124e4e5f6" Timestamp="9/16/2016 11:04:56 PM" Order="9" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Kendrick" Player2="8_bit_D" Winner="1" />
-    <Match ID="6bd688eeb1924ed6836c77f3cb23aebf" Timestamp="9/16/2016 11:04:56 PM" Order="10" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Poskii" Player2="Zen" Winner="1" />
-    <Match ID="90938331506449378ffdb60f68950a21" Timestamp="9/16/2016 11:04:56 PM" Order="11" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Kendrick" Player2="Poskii" Winner="1" />
-    <Match ID="bfc25c13cdb64c9b81b2141b665e4ba7" Timestamp="9/16/2016 11:04:56 PM" Order="12" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="KCBunne" Player2="Crucialtoast8" Winner="2" />
-    <Match ID="91fa44725e1145bbaec13169576de1f1" Timestamp="9/16/2016 11:04:56 PM" Order="13" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="AIDS" Player2="n00b" Winner="1" />
-    <Match ID="5a88176b05e044a2809afb1c50b2a823" Timestamp="9/16/2016 11:04:56 PM" Order="14" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Chuck Lubs" Player2="waffleicious" Winner="1" />
-    <Match ID="d5a8d47ca0824e06bb222acd75419f52" Timestamp="9/16/2016 11:04:56 PM" Order="15" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="StowAway" Player2="Mexican Tim" Winner="1" />
-    <Match ID="22dc76de9174461e99c32f1222fcadc4" Timestamp="9/16/2016 11:04:56 PM" Order="16" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Crucialtoast8" Player2="AIDS" Winner="2" />
-    <Match ID="a6ad7988db184788ba00d77fc82d2a8a" Timestamp="9/16/2016 11:04:56 PM" Order="17" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Chuck Lubs" Player2="StowAway" Winner="2" />
-    <Match ID="a14b4d841eb648dd9fd68b80c74fdd5b" Timestamp="9/16/2016 11:04:56 PM" Order="18" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="8_bit_D" Player2="AIDS" Winner="1" />
-    <Match ID="fadb80cb99d443c48b3d62be53f3c89a" Timestamp="9/16/2016 11:04:56 PM" Order="19" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Zen" Player2="StowAway" Winner="1" />
-    <Match ID="f52765eeb5524a8c8e13b3f6bfe6cab7" Timestamp="9/16/2016 11:04:56 PM" Order="20" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="8_bit_D" Player2="Zen" Winner="2" />
-    <Match ID="4897dfd30eba4ca6bce40ec78acd1d00" Timestamp="9/16/2016 11:04:56 PM" Order="21" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Poskii" Player2="Zen" Winner="2" />
-    <Match ID="b14a01f151414eb18904a949768aca0d" Timestamp="9/16/2016 11:04:56 PM" Order="22" Description="challonge - Smash Jam Was An Inside Job Singles #2 9/16/2016" Player1="Kendrick" Player2="Zen" Winner="1" />
     <Match ID="feabf4fb4219436da534daa9b7708fad" Timestamp="9/17/2016 9:00:06 PM" Order="1" Description="challonge - Smash Jam 17 Melee Singles" Player1="CUTE" Player2="Crucialtoast8" Winner="2" />
     <Match ID="0513ac20e7764f898813d6ef4bc39c00" Timestamp="9/17/2016 9:00:06 PM" Order="2" Description="challonge - Smash Jam 17 Melee Singles" Player1="InkyMoon" Player2="Scrublord" Winner="2" />
     <Match ID="51cc936859d946608a253e27ac6327b7" Timestamp="9/17/2016 9:00:06 PM" Order="3" Description="challonge - Smash Jam 17 Melee Singles" Player1="Taylor" Player2="radi0activeju1ce" Winner="1" />
