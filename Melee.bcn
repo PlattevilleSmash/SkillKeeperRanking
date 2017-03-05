@@ -4,7 +4,7 @@
   <Players>
     <Player Name="Spence" Team="La Crosse" Invisible="false" Characters="" Alts="Spencilence" />
     <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Oh;Ho" />
+    <Player Name="oh" Team="Beloit" Invisible="false" Characters="" Alts="Oh;Ho" />
     <Player Name="Kendrick" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="Mellow | Mike;Tusk" />
     <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="Fluxator" />
@@ -75,8 +75,8 @@
     <Player Name="Di KinG" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="SuperMrJMT" Team="Madison" Invisible="false" Characters="" Alts="supermrjmt" />
     <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Robe" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Robe" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="monk" Team="Eau Claire" Invisible="false" Characters="" Alts="" />
     <Player Name="Vash" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Gary" Team="Platteville" Invisible="false" Characters="" Alts="" />
