@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SK92>
+  <Settings Multiplier="200" MinMatches="1" Decay="0" DecayValue="2" />
+  <Players>
+    <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat;TSW | Meerkat;VGS Meerkat" />
+    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="🏆⏩Сʜᴜᴄκ Ꮮᴜʙѕ 👀" />
+    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="YELLOWYOSHI.ZIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;CG | DrKBlaze" />
+    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Phunky Sal" Team="Platteville" Invisible="false" Characters="" Alts="Symphonic Salute" />
+    <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="Mr. Sphincter" />
+    <Player Name="CardboardBear" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="TripleJ" Team="Platteville" Invisible="false" Characters="" Alts="TrippleJ AllDay" />
+    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
+    <Player Name="Spence" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;CG | 8_bit_D" />
+    <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U" />
+    <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal" />
+    <Player Name="DanS" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Spencer" Team="Janesville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
+    <Player Name="LordEnglish" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="WORM" Team="Oshkosh" Invisible="false" Characters="" Alts="CCAT | WORM" />
+    <Player Name="Bock" Team="" Invisible="false" Characters="" Alts="BOCK" />
+    <Player Name="Garcia" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="BurntToast" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Micah" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Seth" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="HellBringer" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Sharkkill" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="PowPow" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="" />
+    <Player Name="UncleBones" Team="Platteville" Invisible="false" Characters="" Alts="Uncle Bones" />
+    <Player Name="HIV+" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Art" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Rawrizard" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Crucialtoast8" Team="Platteville" Invisible="false" Characters="" Alts="CrucialToast8" />
+    <Player Name="Jokepasa" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="HackAttack" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Big Mac" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="MajorDumpage" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="BadAssSwimDud3" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="The_Odis" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="FuzzyWozzy" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="n00b" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Hunter" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="W" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Baste" Team="" Invisible="false" Characters="" Alts="" />
+  </Players>
+  <Matches>
+    <Match ID="ba38fe1c5cfd475daaa6d1b0964c1706" Timestamp="2/18/2017 3:36:36 PM" Order="1" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="n00b" Player2="CUTE" Winner="2" />
+    <Match ID="49dcbe4b2e9946f2a6bd34482f558e30" Timestamp="2/18/2017 3:36:36 PM" Order="2" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="TKLN" Player2="Hunter" Winner="1" />
+    <Match ID="0ab51113ab0e44279acf419e841f7ee7" Timestamp="2/18/2017 3:36:36 PM" Order="3" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Phunky Sal" Player2="TripleJ" Winner="1" />
+    <Match ID="f72d911a18b84d8da3f0c7b763f5a329" Timestamp="2/18/2017 3:36:36 PM" Order="4" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Chuck Lubs" Player2="CUTE" Winner="1" />
+    <Match ID="0cc29877d9ce4e6cbe6d9bf7c7d7a256" Timestamp="2/18/2017 3:36:36 PM" Order="5" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="TKLN" Player2="Phunky Sal" Winner="2" />
+    <Match ID="7834d6cd3062437ead0cc054fb87bd5d" Timestamp="2/18/2017 3:36:36 PM" Order="6" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Chuck Lubs" Player2="Phunky Sal" Winner="1" />
+    <Match ID="406d4c11919543bb9fdd4134e7dfef25" Timestamp="2/18/2017 3:36:36 PM" Order="7" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Hunter" Player2="TripleJ" Winner="2" />
+    <Match ID="8607124e43bd4fabadc6449c197e6cea" Timestamp="2/18/2017 3:36:36 PM" Order="8" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="TKLN" Player2="n00b" Winner="1" />
+    <Match ID="2ee8328845dd475b99678ec7b12317f0" Timestamp="2/18/2017 3:36:36 PM" Order="9" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="CUTE" Player2="TripleJ" Winner="1" />
+    <Match ID="c20f884c9439411bb86e00bd27857cf4" Timestamp="2/18/2017 3:36:36 PM" Order="10" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="TKLN" Player2="CUTE" Winner="1" />
+    <Match ID="683c32003ac24c16bf6f163a9a102cdb" Timestamp="2/18/2017 3:36:36 PM" Order="11" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Phunky Sal" Player2="TKLN" Winner="2" />
+    <Match ID="ba52c7a1fce94685b0472edae4c1ac7c" Timestamp="2/18/2017 3:36:36 PM" Order="12" Tournament="challonge - Smash Jam 23 Smash 64 Singles" Description="challonge - Smash Jam 23 Smash 64 Singles" Player1="Chuck Lubs" Player2="TKLN" Winner="1" />
+    <Match ID="728f06ba1bb646e3a99042d52056e4b4" Timestamp="4/22/2017 4:16:25 PM" Order="1" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Zen" Player2="Hunter" Winner="1" />
+    <Match ID="c9e1c36acfd14997be16920fd71c2718" Timestamp="4/22/2017 4:16:25 PM" Order="2" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="CardboardBear" Player2="W" Winner="1" />
+    <Match ID="1fa55d5aff0548b4b2af153340d6c768" Timestamp="4/22/2017 4:16:25 PM" Order="3" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="CUTE" Player2="Baste" Winner="1" />
+    <Match ID="a2d5b8d60e13413199b0ab524601593a" Timestamp="4/22/2017 4:16:25 PM" Order="4" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Meerkat" Player2="Zen" Winner="1" />
+    <Match ID="81b8ddec926d444a82d758db5268cf61" Timestamp="4/22/2017 4:16:25 PM" Order="5" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="TKLN" Player2="DrKBlaze" Winner="2" />
+    <Match ID="c5c10eb4d5e14dcfb11b8f821512130a" Timestamp="4/22/2017 4:16:25 PM" Order="6" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Chuck Lubs" Player2="CardboardBear" Winner="1" />
+    <Match ID="eb38b0ff8fc84b93858b3724f1a60c38" Timestamp="4/22/2017 4:16:25 PM" Order="7" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="YELLOWYOSHI.ZIP" Player2="CUTE" Winner="1" />
+    <Match ID="77269f9d929d46e196e3f9de39353cbe" Timestamp="4/22/2017 4:16:25 PM" Order="8" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Meerkat" Player2="DrKBlaze" Winner="1" />
+    <Match ID="e62a7c1fc34949cba18d99de31a46375" Timestamp="4/22/2017 4:16:25 PM" Order="9" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Chuck Lubs" Player2="YELLOWYOSHI.ZIP" Winner="2" />
+    <Match ID="fbef37f6cf7945dfad4ad5d4acf37aa7" Timestamp="4/22/2017 4:16:25 PM" Order="10" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Meerkat" Player2="YELLOWYOSHI.ZIP" Winner="1" />
+    <Match ID="bf3f0c09a9a6483ba3d976b16a9f037e" Timestamp="4/22/2017 4:16:25 PM" Order="11" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="CUTE" Player2="Hunter" Winner="1" />
+    <Match ID="576fa2bc658b4780859b7d5dcc6db2da" Timestamp="4/22/2017 4:16:25 PM" Order="12" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="TKLN" Player2="W" Winner="1" />
+    <Match ID="b0966119e651484cb0ea8dc68c6f9909" Timestamp="4/22/2017 4:16:25 PM" Order="13" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Zen" Player2="Baste" Winner="1" />
+    <Match ID="ef6d81f6aed1407986d7f87dd1c9c85f" Timestamp="4/22/2017 4:16:25 PM" Order="14" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="CardboardBear" Player2="CUTE" Winner="2" />
+    <Match ID="a76ecdfe24a24b808343edb353265b7c" Timestamp="4/22/2017 4:16:25 PM" Order="15" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="TKLN" Player2="Zen" Winner="1" />
+    <Match ID="d577a47aa1324eceaca24afb10c7eaec" Timestamp="4/22/2017 4:16:25 PM" Order="16" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="DrKBlaze" Player2="CUTE" Winner="1" />
+    <Match ID="264f380efee74c028bbf59012ddd1c4e" Timestamp="4/22/2017 4:16:25 PM" Order="17" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Chuck Lubs" Player2="TKLN" Winner="1" />
+    <Match ID="6b04f4dcd340442ca37749ca532ade42" Timestamp="4/22/2017 4:16:25 PM" Order="18" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="DrKBlaze" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="569e8cbb99eb4e0f8dbb287f6723ce70" Timestamp="4/22/2017 4:16:25 PM" Order="19" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="YELLOWYOSHI.ZIP" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="b7fae467d6454a7c963f8c9458c510e8" Timestamp="4/22/2017 4:16:25 PM" Order="20" Tournament="Smash Jam 25 Smash 64 Singles" Description="challonge - Smash Jam 25 Smash 64 Singles" Player1="Meerkat" Player2="Chuck Lubs" Winner="1" />
+  </Matches>
+</SK92>
