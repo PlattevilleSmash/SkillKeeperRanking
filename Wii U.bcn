@@ -3,55 +3,47 @@
   <Settings Multiplier="200" MinMatches="1" Decay="2" DecayValue="2" />
   <Players>
     <Player Name="Cobalt" Team="Dubuque" Invisible="false" Characters="" Alts="" />
-    <Player Name="Kruser" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="DrKBlaze" Team="Platteville" Invisible="false" Characters="" Alts="Blaze;CHMRA|DrKBlaze;CG DrKBlaze;CG | DrKBlaze" />
-    <Player Name="Bawk" Team="Dubuque" Invisible="false" Characters="" Alts="bawk" />
-    <Player Name="Kahuza" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="ArgonianCream" Team="Cedar Rapids" Invisible="false" Characters="" Alts="" />
+    <Player Name="MOMMY" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Kruser" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;CG | 8_bit_D;CG | GenZ | 8_bit_d" />
-    <Player Name="Kendrick" Team="Platteville" Invisible="false" Characters="" Alts="EXam;Labia;N E C C" />
-    <Player Name="Baba" Team="Michigan" Invisible="false" Characters="" Alts="" />
-    <Player Name="Phunky Sal" Team="Platteville" Invisible="false" Characters="" Alts="Symphonic Salute;Justin;SymphonicSalute" />
+    <Player Name="TKLN" Team="Platteville" Invisible="false" Characters="" Alts="ZEXAL" />
+    <Player Name="Bawk" Team="Dubuque" Invisible="false" Characters="" Alts="bawk" />
+    <Player Name="Suhlivan" Team="Quad Cities" Invisible="false" Characters="" Alts="CG | Suhlivan🔥;Torizo;CG | Suhlivan" />
+    <Player Name="JustChristian" Team="Whitewater" Invisible="false" Characters="" Alts="" />
     <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear;CardBoardBear" />
+    <Player Name="Kendrick" Team="Platteville" Invisible="false" Characters="" Alts="EXam;Labia;N E C C;U T E R U S;Cloutoris;M150 | Vulvers 👎👎👎👎" />
     <Player Name="D-Money" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="PowPow" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Suhlivan" Team="Quad Cities" Invisible="false" Characters="" Alts="CG | Suhlivan🔥;Torizo" />
+    <Player Name="Kahuza" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Twinkie" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Prophet" Team="Iowa" Invisible="false" Characters="" Alts="" />
-    <Player Name="Hunter" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Fons" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Cyp" Team="Platteville" Invisible="false" Characters="" Alts="TropiCyp;CG | TropiCyp" />
+    <Player Name="Saucy" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="ArgonianCream" Team="Cedar Rapids" Invisible="false" Characters="" Alts="" />
     <Player Name="Solar" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="D-Ricky" Team="Galena" Invisible="false" Characters="" Alts="D_Rickyy" />
-    <Player Name="G" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Art" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Tilt-a-whirl" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Di KinG" Team="Iowa" Invisible="false" Characters="" Alts="" />
-    <Player Name="Janswer" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="KH" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="DelaHammer" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Baba" Team="Michigan" Invisible="false" Characters="" Alts="" />
+    <Player Name="Phunky Sal" Team="Platteville" Invisible="false" Characters="" Alts="Symphonic Salute;Justin;SymphonicSalute" />
+    <Player Name="YoshQ" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Rawizard" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Twinkie" Team="Dubuque" Invisible="false" Characters="" Alts="" />
     <Player Name="Muk.Lyfe Marshall" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="🏆⏩Сʜᴜᴄκ Ꮮᴜʙѕ 👀" />
-    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="Qtip" />
-    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Saucy" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="Zen is late" />
     <Player Name="1.5.[ichigo]" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="RB-RIGO" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Squidward" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Dream" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dr3AM" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Fishaman P" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Janswer" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Hunter" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="G" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="1N" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Cole" Team="Platteville" Invisible="false" Characters="" Alts="JustCole" />
     <Player Name="Gibby" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="MVG Inui" Team="La Crosse" Invisible="false" Characters="" Alts="" />
-    <Player Name="Apparatus" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="JJm" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="Qtip" />
     <Player Name="Lucifer765" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Tilt-a-whirl" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="tlivingston" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Guts" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Popsicle" Team="" Invisible="false" Characters="" Alts="" />
@@ -59,36 +51,51 @@
     <Player Name="Timez" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Fluxator" Team="" Invisible="false" Characters="" Alts="Flux" />
     <Player Name="Dysfunkti0nal" Team="Quad Cities" Invisible="false" Characters="" Alts="dysfunkti0nal;KRB | Dysfunkti0nal;Dysfunk" />
-    <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Neefe" Team="Platteville" Invisible="false" Characters="" Alts="NEEFE" />
+    <Player Name="Dream" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="LuckyBogg" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Frito_Lay" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Pok3monRocks" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Darkev" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Brosef Stalin" Team="" Invisible="false" Characters="" Alts="Brohandas Gandhi;Bro Montana" />
-    <Player Name="Chibi" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Chuck Lubs" Team="Platteville" Invisible="false" Characters="" Alts="🏆⏩Сʜᴜᴄκ Ꮮᴜʙѕ 👀" />
+    <Player Name="Cole" Team="Whitewater" Invisible="false" Characters="" Alts="JustCole" />
     <Player Name="Snow" Team="Madison" Invisible="false" Characters="" Alts="" />
+    <Player Name="Apparatus" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="Hogosha" Team="Dubuque" Invisible="false" Characters="" Alts="" />
-    <Player Name="Cryo" Team="Waunakee" Invisible="false" Characters="" Alts="" />
-    <Player Name="CD-I" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Jabes" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat" />
     <Player Name="Moo3" Team="La Crosse" Invisible="false" Characters="" Alts="Simple" />
     <Player Name="HIV+" Team="Platteville" Invisible="false" Characters="" Alts="Lolroflpie" />
     <Player Name="Narbs" Team="Twin Cities" Invisible="false" Characters="" Alts="" />
+    <Player Name="Cyp" Team="Platteville" Invisible="false" Characters="" Alts="TropiCyp;CG | TropiCyp" />
+    <Player Name="CUTE" Team="Platteville" Invisible="false" Characters="" Alts="cute" />
     <Player Name="techmaster mcG" Team="Platteville" Invisible="false" Characters="" Alts="TechMaster mcG" />
     <Player Name="Super Duper Lance" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Watermint" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="DelaHammer" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="RB-RIGO" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="StowAway" Team="Platteville" Invisible="false" Characters="" Alts="Stowaway" />
     <Player Name="Monday" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="HackAttack" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="HCMatt" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Tales" Team="La Crosse" Invisible="false" Characters="" Alts="" />
+    <Player Name="Basted" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="cwagon" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Kram" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Bunk" Team="" Invisible="false" Characters="" Alts="Denim Daddy" />
+    <Player Name="Kyle" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Gold" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Chibi" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Keng" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Neefe" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="midget" Team="" Invisible="false" Characters="" Alts="Midget" />
+    <Player Name="Ben" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="Zen is late" />
+    <Player Name="Squidward" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Logic" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Amp" Team="" Invisible="false" Characters="" Alts="Amplify" />
+    <Player Name="Frito_Lay" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Cryo" Team="Waunakee" Invisible="false" Characters="" Alts="" />
+    <Player Name="CD-I" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Meerkat" Team="Waukesha" Invisible="false" Characters="" Alts="VGS | Meerkat" />
+    <Player Name="Watermint" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Bunk" Team="" Invisible="false" Characters="" Alts="Denim Daddy" />
     <Player Name="W" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Seen" Team="Madison" Invisible="false" Characters="" Alts="" />
     <Player Name="TripleJ" Team="Platteville" Invisible="false" Characters="" Alts="Tripple J;TrippleJ AllDay" />
@@ -98,7 +105,7 @@
     <Player Name="Rex" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Derp" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="TMD" Team="Platteville" Invisible="false" Characters="" Alts="" />
-    <Player Name="Retz" Team="Platteville" Invisible="false" Characters="" Alts="" />
+    <Player Name="Retz" Team="Platteville" Invisible="false" Characters="" Alts="RETZ" />
     <Player Name="Norms" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Chase" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Mexican Tim" Team="Platteville" Invisible="false" Characters="" Alts="Collin U" />
@@ -127,7 +134,7 @@
     <Player Name="fatz" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Kooks" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Wazowski" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="n00b" Team="" Invisible="false" Characters="" Alts="Noob;N00b" />
+    <Player Name="The Lorax" Team="Platteville" Invisible="false" Characters="" Alts="Noob;N00b;The Lorax" />
     <Player Name="Desseler" Team="Ames" Invisible="false" Characters="" Alts="" />
     <Player Name="Kevin Horton" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="LucarioGirlForever" Team="" Invisible="false" Characters="" Alts="" />
@@ -167,7 +174,6 @@
     <Player Name="BarrelRoll" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="EnlargingCow884" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Landry" Team="Madison" Invisible="false" Characters="" Alts="" />
-    <Player Name="Logic" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Big Mac" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Shutter" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Fuzzywozzy" Team="" Invisible="false" Characters="" Alts="" />
@@ -193,7 +199,8 @@
     <Player Name="Salvo" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="TyeDye" Team="" Invisible="false" Characters="" Alts="" />
     <Player Name="Loki" Team="" Invisible="false" Characters="" Alts="" />
-    <Player Name="Amp" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Diet" Team="" Invisible="false" Characters="" Alts="" />
+    <Player Name="Dez" Team="" Invisible="false" Characters="" Alts="" />
   </Players>
   <Matches>
     <Match ID="73714b23609a4e55a9c9a07d51c25c86" Timestamp="10/18/2014 12:00:00 AM" Order="1" Tournament="challonge - Platteville Smash Jam 2: Smash 4" Description="challonge - Platteville Smash Jam 2: Smash 4" Player1="Suhlivan" Player2="Meerkat" Winner="2" />
@@ -647,7 +654,7 @@
     <Match ID="9e0d31fc57564d02b2407ce27e124ded" Timestamp="12/5/2015 5:58:41 PM" Order="4" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Phunky Sal" Player2="Wazowski" Winner="1" />
     <Match ID="982e7117610e48b78f6956ef74df045a" Timestamp="12/5/2015 5:58:41 PM" Order="5" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Suhlivan" Player2="KingTut" Winner="1" />
     <Match ID="beb4a3e0836346f2a6b3b096573d2cf8" Timestamp="12/5/2015 5:58:41 PM" Order="6" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="DrKBlaze" Player2="Dismount Psyduck" Winner="1" />
-    <Match ID="943f3779d41b4342b4eb8d323420e559" Timestamp="12/5/2015 5:58:41 PM" Order="7" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="n00b" Player2="Moo3" Winner="2" />
+    <Match ID="943f3779d41b4342b4eb8d323420e559" Timestamp="12/5/2015 5:58:41 PM" Order="7" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="The Lorax" Player2="Moo3" Winner="2" />
     <Match ID="cce50ed3440a48b699b82e1d07d9b252" Timestamp="12/5/2015 5:58:41 PM" Order="8" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="8_bit_D" Player2="Mexican Tim" Winner="1" />
     <Match ID="0a1af90ce0fe47658f78f9db185e47e5" Timestamp="12/5/2015 5:58:41 PM" Order="9" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Fluxator" Player2="Dio" Winner="1" />
     <Match ID="0d66ca336b6d40a18aeaa73471fcdf6b" Timestamp="12/5/2015 5:58:41 PM" Order="10" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Bawk" Player2="Poskii" Winner="1" />
@@ -659,7 +666,7 @@
     <Match ID="da8bcaebefbb4757bebfa80f877feb2c" Timestamp="12/5/2015 5:58:41 PM" Order="16" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Bawk" Player2="DrKBlaze" Winner="1" />
     <Match ID="bdbba7ef9c894abf8d5ea92fb1e54b0c" Timestamp="12/5/2015 5:58:41 PM" Order="17" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Dio" Player2="Otto" Winner="1" />
     <Match ID="a9357f659abb4a84bc602c6052a7e0e6" Timestamp="12/5/2015 5:58:41 PM" Order="18" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Mexican Tim" Player2="Dio" Winner="2" />
-    <Match ID="281f776deb014484bd47363289af60de" Timestamp="12/5/2015 5:58:41 PM" Order="19" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="n00b" Player2="Dismount Psyduck" Winner="2" />
+    <Match ID="281f776deb014484bd47363289af60de" Timestamp="12/5/2015 5:58:41 PM" Order="19" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="The Lorax" Player2="Dismount Psyduck" Winner="2" />
     <Match ID="f68386334a45483c8a9c597fd9cfbc85" Timestamp="12/5/2015 5:58:41 PM" Order="20" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="KingTut" Player2="Wazowski" Winner="2" />
     <Match ID="2fb2514fa2ef46bbad128dff8edd66ff" Timestamp="12/5/2015 5:58:41 PM" Order="21" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="JoJo" Player2="SURN" Winner="2" />
     <Match ID="a8244a8125eb4fadbbecd666d0def6de" Timestamp="12/5/2015 5:58:41 PM" Order="22" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="Suhlivan" Player2="Dio" Winner="1" />
@@ -676,7 +683,7 @@
     <Match ID="0742747233024ed0837a761e7d15ddf2" Timestamp="12/5/2015 5:58:41 PM" Order="33" Tournament="challonge - Smash Jam 12 WiiU Singles" Description="challonge - Smash Jam 12 WiiU Singles" Player1="8_bit_D" Player2="Bawk" Winner="2" />
     <Match ID="cf6b575ab7c242e38a1609bd802807fa" Timestamp="1/30/2016 7:04:54 PM" Order="1" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Mexican Tim" Player2="Alex409521" Winner="2" />
     <Match ID="742c710caa4147f1a128f609635637df" Timestamp="1/30/2016 7:04:54 PM" Order="2" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="SURN" Player2="Kooks" Winner="1" />
-    <Match ID="1abf5bc80b7746d3a111e41d267a1248" Timestamp="1/30/2016 7:04:54 PM" Order="3" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Fluxator" Player2="n00b" Winner="1" />
+    <Match ID="1abf5bc80b7746d3a111e41d267a1248" Timestamp="1/30/2016 7:04:54 PM" Order="3" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Fluxator" Player2="The Lorax" Winner="1" />
     <Match ID="01423e64d4414a3db551ad0b0c854686" Timestamp="1/30/2016 7:04:54 PM" Order="4" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Poskii" Player2="techmaster mcG" Winner="2" />
     <Match ID="e456e520ab4e4971b1fa4772f6e7896a" Timestamp="1/30/2016 7:04:54 PM" Order="5" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Rybomb" Player2="Kruser" Winner="2" />
     <Match ID="6b99ac4ba1284e0e92fc1d28f3e4d2a6" Timestamp="1/30/2016 7:04:54 PM" Order="6" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="JoJo" Player2="Cryo" Winner="1" />
@@ -697,7 +704,7 @@
     <Match ID="d5ec0f1ec627493cb5adf32ae97f3be0" Timestamp="1/30/2016 7:04:54 PM" Order="21" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="D-Ricky" Player2="DrKBlaze" Winner="1" />
     <Match ID="47701630f1f04920b1020a81a08cf9ac" Timestamp="1/30/2016 7:04:54 PM" Order="22" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="JoJo" Player2="Mexican Tim" Winner="1" />
     <Match ID="f05c8df3b0c249b2aae99b6ad697884f" Timestamp="1/30/2016 7:04:54 PM" Order="23" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="zepol" Player2="Kooks" Winner="2" />
-    <Match ID="5dc579c2a0ad4f5a959b14c29e41b9c2" Timestamp="1/30/2016 7:04:54 PM" Order="24" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="techmaster mcG" Player2="n00b" Winner="1" />
+    <Match ID="5dc579c2a0ad4f5a959b14c29e41b9c2" Timestamp="1/30/2016 7:04:54 PM" Order="24" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="techmaster mcG" Player2="The Lorax" Winner="1" />
     <Match ID="f499e4b53793419191d9ad23ea2a6747" Timestamp="1/30/2016 7:04:54 PM" Order="25" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Fluxator" Player2="Poskii" Winner="1" />
     <Match ID="58a0eb3a9ec6482aa161144d428e9043" Timestamp="1/30/2016 7:04:54 PM" Order="26" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Cyp" Player2="Rybomb" Winner="1" />
     <Match ID="3c2412a00d4a4813ace0b6b2f54a47e4" Timestamp="1/30/2016 7:04:54 PM" Order="27" Tournament="challonge - Smash Jam 13 Wii U singles" Description="challonge - Smash Jam 13 Wii U singles" Player1="Alex409521" Player2="Cryo" Winner="2" />
@@ -720,14 +727,14 @@
     <Match ID="15fbf388e6b142829ceaccaa99795caa" Timestamp="2/20/2016 7:56:33 PM" Order="1" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Cryo" Player2="Meerkat" Winner="2" />
     <Match ID="8565f0d7f03f4e39943328dc1b414778" Timestamp="2/20/2016 7:56:33 PM" Order="2" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Pok3monRocks" Player2="Mexican Tim" Winner="2" />
     <Match ID="31add2b5395843bc8e0adb175a6e6e64" Timestamp="2/20/2016 7:56:33 PM" Order="3" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="JoJo" Player2="SURN" Winner="2" />
-    <Match ID="3b0c6bd8fd194fc593aa41968a8824bd" Timestamp="2/20/2016 7:56:33 PM" Order="4" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Rybomb" Player2="n00b" Winner="2" />
+    <Match ID="3b0c6bd8fd194fc593aa41968a8824bd" Timestamp="2/20/2016 7:56:33 PM" Order="4" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Rybomb" Player2="The Lorax" Winner="2" />
     <Match ID="6754469580fb4082bc038f82d0e5c53c" Timestamp="2/20/2016 7:56:33 PM" Order="5" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Dysfunkti0nal" Player2="CUTE" Winner="1" />
     <Match ID="b69e0c14d422410b89f50fb332c15c57" Timestamp="2/20/2016 7:56:33 PM" Order="6" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="techmaster mcG" Player2="VG" Winner="2" />
     <Match ID="cd70bb13c47a4b5fad9b0e3bf3973cfb" Timestamp="2/20/2016 7:56:33 PM" Order="7" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="DrKBlaze" Player2="Meerkat" Winner="1" />
     <Match ID="2bf8657246a243d9ad1dc3253770601b" Timestamp="2/20/2016 7:56:33 PM" Order="8" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="FrozenPizza" Player2="Poskii" Winner="1" />
     <Match ID="209671a290854d7ab5dddba75c5c4b7c" Timestamp="2/20/2016 7:56:33 PM" Order="9" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Suhlivan" Player2="Mexican Tim" Winner="1" />
     <Match ID="520fd7a55db54680b4a0ed7e0e56711c" Timestamp="2/20/2016 7:56:33 PM" Order="10" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Dr3AM" Player2="SURN" Winner="1" />
-    <Match ID="394fc822e3cd42ed9f2e66eda789d7f5" Timestamp="2/20/2016 7:56:33 PM" Order="11" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="8_bit_D" Player2="n00b" Winner="1" />
+    <Match ID="394fc822e3cd42ed9f2e66eda789d7f5" Timestamp="2/20/2016 7:56:33 PM" Order="11" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="8_bit_D" Player2="The Lorax" Winner="1" />
     <Match ID="34d848ef5e7d44b0b8952bc3294bf3e0" Timestamp="2/20/2016 7:56:33 PM" Order="12" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Dismount Psyduck" Player2="Fluxator" Winner="2" />
     <Match ID="fa2a5f8418c045678a76753bcc9a2df4" Timestamp="2/20/2016 7:56:33 PM" Order="13" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Cyp" Player2="Dysfunkti0nal" Winner="1" />
     <Match ID="530ab8047cef4521b2341b2ad9cf113e" Timestamp="2/20/2016 7:56:33 PM" Order="14" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Kruser" Player2="VG" Winner="1" />
@@ -740,7 +747,7 @@
     <Match ID="6961355040e14c9ea0034061a0753b02" Timestamp="2/20/2016 7:56:33 PM" Order="21" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="DrKBlaze" Player2="Kruser" Winner="1" />
     <Match ID="c43f69c8077e4111b9d10297ca01cb77" Timestamp="2/20/2016 7:56:33 PM" Order="22" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="VG" Player2="Cryo" Winner="2" />
     <Match ID="80c5bb46a5fc41e8a35f65c5aa8d7f42" Timestamp="2/20/2016 7:56:33 PM" Order="23" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Dismount Psyduck" Player2="Pok3monRocks" Winner="2" />
-    <Match ID="9efa96c59fe44d54aff76aefcfae6a4d" Timestamp="2/20/2016 7:56:33 PM" Order="24" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="n00b" Player2="JoJo" Winner="2" />
+    <Match ID="9efa96c59fe44d54aff76aefcfae6a4d" Timestamp="2/20/2016 7:56:33 PM" Order="24" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="The Lorax" Player2="JoJo" Winner="2" />
     <Match ID="2c8ce69f781942f9a510cb3abc7ba8e0" Timestamp="2/20/2016 7:56:33 PM" Order="25" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="SURN" Player2="Rybomb" Winner="1" />
     <Match ID="3f81983d5bf9498e803677cc2482e898" Timestamp="2/20/2016 7:56:33 PM" Order="27" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Meerkat" Player2="techmaster mcG" Winner="2" />
     <Match ID="0cadfb06a7dd4197af18a5ec9471e8b9" Timestamp="2/20/2016 7:56:33 PM" Order="28" Tournament="challonge - SJ14 Wii U Singles" Description="challonge - SJ14 Wii U Singles" Player1="Dysfunkti0nal" Player2="Cryo" Winner="1" />
@@ -797,7 +804,7 @@
     <Match ID="c743684c262544a1b525f07a0c82a29c" Timestamp="4/2/2016 4:51:00 PM" Order="8" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Dr3AM" Player2="Fishaman P" Winner="1" />
     <Match ID="4dc8651bb2b04c079d21bba407d265f6" Timestamp="4/2/2016 4:51:00 PM" Order="9" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Kruser" Player2="Jabes" Winner="1" />
     <Match ID="de91d1e4961d49b892b62c2eb3d13eaf" Timestamp="4/2/2016 4:51:00 PM" Order="11" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="8_bit_D" Player2="Twinfyre" Winner="1" />
-    <Match ID="55e3d89c5e1c4d48921177de18fab7cd" Timestamp="4/2/2016 4:51:00 PM" Order="12" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="nancy" Player2="n00b" Winner="1" />
+    <Match ID="55e3d89c5e1c4d48921177de18fab7cd" Timestamp="4/2/2016 4:51:00 PM" Order="12" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="nancy" Player2="The Lorax" Winner="1" />
     <Match ID="23ee84a7dc30418898a89531f2632bbf" Timestamp="4/2/2016 4:51:00 PM" Order="13" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="DrKBlaze" Player2="SURN" Winner="1" />
     <Match ID="0f3a1c92a4f344f99b97649b973b4f31" Timestamp="4/2/2016 4:51:00 PM" Order="14" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Phunky Sal" Player2="Dr3AM" Winner="1" />
     <Match ID="e7182c33c1044ecb989f9bc25c293ecd" Timestamp="4/2/2016 4:51:00 PM" Order="15" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Kruser" Player2="Narbs" Winner="1" />
@@ -805,7 +812,7 @@
     <Match ID="2f749ea5e71b4e9ea0ef48aa7795a9ef" Timestamp="4/2/2016 4:51:00 PM" Order="17" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="DrKBlaze" Player2="Phunky Sal" Winner="2" />
     <Match ID="334b34be3df549669df3139602d532f7" Timestamp="4/2/2016 4:51:00 PM" Order="18" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Kruser" Player2="8_bit_D" Winner="1" />
     <Match ID="e3899864bce641dca5110875e4db7af5" Timestamp="4/2/2016 4:51:00 PM" Order="19" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Phunky Sal" Player2="Kruser" Winner="2" />
-    <Match ID="c58cf0fb4d0c43b1805aed094a95f4fe" Timestamp="4/2/2016 4:51:00 PM" Order="20" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="n00b" Player2="JJm" Winner="2" />
+    <Match ID="c58cf0fb4d0c43b1805aed094a95f4fe" Timestamp="4/2/2016 4:51:00 PM" Order="20" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="The Lorax" Player2="JJm" Winner="2" />
     <Match ID="295ddf1ba5984fa49a5bc4b811eb34fc" Timestamp="4/2/2016 4:51:00 PM" Order="22" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Fishaman P" Player2="GGthelegend" Winner="1" />
     <Match ID="b34b45777a8c4b53a3399c6692e0af33" Timestamp="4/2/2016 4:51:00 PM" Order="23" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Chuck Lubs" Player2="LordEnglish" Winner="2" />
     <Match ID="39c3983b1e5e4dcc9162496f0bfed927" Timestamp="4/2/2016 4:51:00 PM" Order="24" Tournament="challonge - Smash Jam 15 WiiU Singles" Description="challonge - Smash Jam 15 WiiU Singles" Player1="Twinfyre" Player2="JJm" Winner="2" />
@@ -830,7 +837,7 @@
     <Match ID="df3a1ebd418d4ac3bfc963f8e69ff8dc" Timestamp="4/23/2016 3:49:32 PM" Order="5" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Cyp" Player2="Shepard" Winner="1" />
     <Match ID="cfd55019d76843ac9d282fdc4abe6d80" Timestamp="4/23/2016 3:49:32 PM" Order="6" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Fluxator" Player2="Cardboardbear" Winner="1" />
     <Match ID="dc0311e608774f269f465e668106b670" Timestamp="4/23/2016 3:49:32 PM" Order="7" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="DrKBlaze" Player2="Lucifer765" Winner="1" />
-    <Match ID="bdfe9c0a39f8491cb8bd8c7d3d385322" Timestamp="4/23/2016 3:49:32 PM" Order="8" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Guts" Player2="n00b" Winner="1" />
+    <Match ID="bdfe9c0a39f8491cb8bd8c7d3d385322" Timestamp="4/23/2016 3:49:32 PM" Order="8" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Guts" Player2="The Lorax" Winner="1" />
     <Match ID="3319de01089047ee828ee33480b60fe6" Timestamp="4/23/2016 3:49:32 PM" Order="9" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Bawk" Player2="Keng" Winner="1" />
     <Match ID="7d064b8f7412462185d322f9773ad5fa" Timestamp="4/23/2016 3:49:32 PM" Order="10" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Suhlivan" Player2="Twink" Winner="1" />
     <Match ID="b74d2dc54f034da9a098900d6168a167" Timestamp="4/23/2016 3:49:32 PM" Order="11" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Kruser" Player2="Mexican Tim" Winner="1" />
@@ -843,7 +850,7 @@
     <Match ID="00c36d338d7a467e9ff037a5c7016ecb" Timestamp="4/23/2016 3:49:32 PM" Order="18" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Twink" Player2="Dr Mario" Winner="1" />
     <Match ID="46ec6fdfeb934eb18edf6be667e9ee5c" Timestamp="4/23/2016 3:49:32 PM" Order="19" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Cardboardbear" Player2="Dio" Winner="1" />
     <Match ID="f5a60847656f4d64820c234a81527a9f" Timestamp="4/23/2016 3:49:32 PM" Order="20" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Keng" Player2="Twink" Winner="1" />
-    <Match ID="ffa9a57acbf646759c0dd5215a7a0d2b" Timestamp="4/23/2016 3:49:32 PM" Order="21" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="n00b" Player2="Lucifer765" Winner="2" />
+    <Match ID="ffa9a57acbf646759c0dd5215a7a0d2b" Timestamp="4/23/2016 3:49:32 PM" Order="21" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="The Lorax" Player2="Lucifer765" Winner="2" />
     <Match ID="bcdf07f5744a4ee8951ca622e871d3f7" Timestamp="4/23/2016 3:49:32 PM" Order="22" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Shepard" Player2="Cardboardbear" Winner="2" />
     <Match ID="d2a9f12c224c45f18502dd434a688b27" Timestamp="4/23/2016 3:49:32 PM" Order="23" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Chuck Lubs" Player2="Gold" Winner="2" />
     <Match ID="b2bdeace45bd41c48e7c64cdd3fbfccc" Timestamp="4/23/2016 3:49:32 PM" Order="24" Tournament="challonge - Smash Jam 16 WiiU Singles" Description="challonge - Smash Jam 16 WiiU Singles" Player1="Fluxator" Player2="Keng" Winner="1" />
@@ -863,7 +870,7 @@
     <Match ID="c1b7705e22e346c7aec734ed29b986ff" Timestamp="9/17/2016 4:19:32 PM" Order="4" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Twinkie" Player2="Jim" Winner="1" />
     <Match ID="7bcdb8ae73984d65872f43c282a4abf9" Timestamp="9/17/2016 4:19:32 PM" Order="5" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Cardboardbear" Player2="Retz" Winner="1" />
     <Match ID="06f1520ed9c84012aebe8b3271bff2ad" Timestamp="9/17/2016 4:19:32 PM" Order="6" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Seen" Player2="Dickey" Winner="2" />
-    <Match ID="5136bfd2b1c3458cb40210117268ef7b" Timestamp="9/17/2016 4:19:32 PM" Order="7" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Cyp" Player2="n00b" Winner="1" />
+    <Match ID="5136bfd2b1c3458cb40210117268ef7b" Timestamp="9/17/2016 4:19:32 PM" Order="7" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Cyp" Player2="The Lorax" Winner="1" />
     <Match ID="071b6ff4312c4a47b9c6d21dc3bcc925" Timestamp="9/17/2016 4:19:32 PM" Order="8" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="G" Player2="Apparatus" Winner="1" />
     <Match ID="64f58ef2e11445fe95cc13c3d299f12c" Timestamp="9/17/2016 4:19:32 PM" Order="9" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Nick" Player2="Chase" Winner="2" />
     <Match ID="8c08048301dd415a8b53c1c1c14bf827" Timestamp="9/17/2016 4:19:32 PM" Order="10" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Phunky Sal" Player2="Phoenix" Winner="1" />
@@ -884,7 +891,7 @@
     <Match ID="c95feb6a4d8f42f5a916cc5d274425d2" Timestamp="9/17/2016 4:19:32 PM" Order="25" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Cyp" Player2="DrKBlaze" Winner="2" />
     <Match ID="331cc16a181a4a9fb083d0e8307eaa89" Timestamp="9/17/2016 4:19:32 PM" Order="26" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="D-Money" Player2="DrKBlaze" Winner="1" />
     <Match ID="3d8bcd84915e403db505364b32fcb337" Timestamp="9/17/2016 4:19:32 PM" Order="27" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Crucialtoast8" Player2="Neefe" Winner="2" />
-    <Match ID="1a02e101af394447984a951fa4f6ff13" Timestamp="9/17/2016 4:19:32 PM" Order="28" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="n00b" Player2="Apparatus" Winner="2" />
+    <Match ID="1a02e101af394447984a951fa4f6ff13" Timestamp="9/17/2016 4:19:32 PM" Order="28" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="The Lorax" Player2="Apparatus" Winner="2" />
     <Match ID="cfe76cef3f824ff59402b9500d59ebf8" Timestamp="9/17/2016 4:19:32 PM" Order="29" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Phoenix" Player2="InkyMoon" Winner="2" />
     <Match ID="9e9f8a54df2449ca94a5dad2f7622f37" Timestamp="9/17/2016 4:19:32 PM" Order="31" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Chase" Player2="Neefe" Winner="2" />
     <Match ID="bb1d95c228a94f778b85e2d17afbcdc0" Timestamp="9/17/2016 4:19:32 PM" Order="32" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="G" Player2="Jim" Winner="1" />
@@ -908,7 +915,7 @@
     <Match ID="9d6b8bd8c56a49eb9b9d608f4016cc79" Timestamp="9/17/2016 4:19:32 PM" Order="50" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="Kruser" Player2="YoshQ" Winner="1" />
     <Match ID="96b81b34237c4a68b54e69441cd7eb4c" Timestamp="9/17/2016 4:19:32 PM" Order="51" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="DrKBlaze" Player2="Kruser" Winner="1" />
     <Match ID="d14dc3b22ce64cf98b13c33eb6c1d3c4" Timestamp="9/17/2016 4:19:32 PM" Order="52" Tournament="challonge - Smash Jam 17 Wii U Singles" Description="challonge - Smash Jam 17 Wii U Singles" Player1="D-Money" Player2="DrKBlaze" Winner="1" />
-    <Match ID="f4faa3b238de49d39165486caf0670ed" Timestamp="10/8/2016 5:54:31 PM" Order="1" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="n00b" Player2="Meerkat" Winner="2" />
+    <Match ID="f4faa3b238de49d39165486caf0670ed" Timestamp="10/8/2016 5:54:31 PM" Order="1" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="The Lorax" Player2="Meerkat" Winner="2" />
     <Match ID="3e775aed77ef434b9f01cff72cb31fc6" Timestamp="10/8/2016 5:54:31 PM" Order="3" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="Phunky Sal" Player2="Zen" Winner="2" />
     <Match ID="5ac1461696a445139d010249c0e33f56" Timestamp="10/8/2016 5:54:31 PM" Order="4" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="Chuck Lubs" Player2="Mexican Tim" Winner="1" />
     <Match ID="03c23580f5a84b95b383f28fb747f812" Timestamp="10/8/2016 5:54:31 PM" Order="5" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="TKLN" Player2="CUTE" Winner="1" />
@@ -919,7 +926,7 @@
     <Match ID="ec1e524f260c4540ad3372184b14d487" Timestamp="10/8/2016 5:54:31 PM" Order="10" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="DrKBlaze" Player2="Zen" Winner="1" />
     <Match ID="284433662f7f400f8df376aaff6c49d7" Timestamp="10/8/2016 5:54:31 PM" Order="11" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="Cobalt" Player2="Kruser" Winner="1" />
     <Match ID="4dd2553988824be4865f33e7eff962c1" Timestamp="10/8/2016 5:54:31 PM" Order="12" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="DrKBlaze" Player2="Cobalt" Winner="2" />
-    <Match ID="a66d0e50ee1d4e259a8739a5117a230b" Timestamp="10/8/2016 5:54:31 PM" Order="14" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="TKLN" Player2="n00b" Winner="1" />
+    <Match ID="a66d0e50ee1d4e259a8739a5117a230b" Timestamp="10/8/2016 5:54:31 PM" Order="14" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="TKLN" Player2="The Lorax" Winner="1" />
     <Match ID="516e552a1f864e56b886e6fef19f966f" Timestamp="10/8/2016 5:54:31 PM" Order="15" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="Chuck Lubs" Player2="Phunky Sal" Winner="2" />
     <Match ID="12bac63c44454c41a5eb38eb0393c3b6" Timestamp="10/8/2016 5:54:31 PM" Order="16" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="InkyMoon" Player2="Mexican Tim" Winner="2" />
     <Match ID="1cd395d30f6d43dfbed36b4ef69a4896" Timestamp="10/8/2016 5:54:31 PM" Order="17" Tournament="challonge - Smash Jam 18 Wii U Singles" Description="challonge - Smash Jam 18 Wii U Singles" Player1="Meerkat" Player2="CUTE" Winner="1" />
@@ -936,7 +943,7 @@
     <Match ID="4a7acebe97214519970ee6af045660d2" Timestamp="10/29/2016 3:12:55 PM" Order="3" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Kendrick" Player2="Captain Chaz" Winner="1" />
     <Match ID="308b0f03f04d4c358ecb8d2ea82a4407" Timestamp="10/29/2016 3:12:55 PM" Order="4" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="DrKBlaze" Player2="Hunter" Winner="1" />
     <Match ID="64082333917e47c696e3c6bfd3549466" Timestamp="10/29/2016 3:12:55 PM" Order="5" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Zen" Player2="Meerkat" Winner="1" />
-    <Match ID="6c31adf89f1e4da29001b3f814f0e6b0" Timestamp="10/29/2016 3:12:55 PM" Order="6" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Bawk" Player2="n00b" Winner="1" />
+    <Match ID="6c31adf89f1e4da29001b3f814f0e6b0" Timestamp="10/29/2016 3:12:55 PM" Order="6" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Bawk" Player2="The Lorax" Winner="1" />
     <Match ID="24faea3babe5406a9eb534ca3a691c12" Timestamp="10/29/2016 3:12:55 PM" Order="7" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Cyp" Player2="Chuck Lubs" Winner="1" />
     <Match ID="0192660cd5e0458ebe77d344eaa30181" Timestamp="10/29/2016 3:12:55 PM" Order="8" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Cobalt" Player2="Cole" Winner="1" />
     <Match ID="afa5c6b72f1246148023077fa47dcf43" Timestamp="10/29/2016 3:12:55 PM" Order="9" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Cardboardbear" Player2="Twinkie" Winner="1" />
@@ -954,7 +961,7 @@
     <Match ID="7d5f62fcc34f4729841cbf30df9bf875" Timestamp="10/29/2016 3:12:55 PM" Order="21" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Meerkat" Player2="Captain Chaz" Winner="1" />
     <Match ID="3d8608f5991f46e08240e938fa22b916" Timestamp="10/29/2016 3:12:55 PM" Order="22" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Kendrick" Player2="Poskii" Winner="1" />
     <Match ID="26681476e04c447d9f6ca2f1f68d9838" Timestamp="10/29/2016 3:12:55 PM" Order="23" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Twinkie" Player2="Cole" Winner="2" />
-    <Match ID="06c4950543384981bb89ca925c2d60bb" Timestamp="10/29/2016 3:12:55 PM" Order="24" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="n00b" Player2="TMD" Winner="2" />
+    <Match ID="06c4950543384981bb89ca925c2d60bb" Timestamp="10/29/2016 3:12:55 PM" Order="24" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="The Lorax" Player2="TMD" Winner="2" />
     <Match ID="b18653374c57469085f761192d08f756" Timestamp="10/29/2016 3:12:55 PM" Order="25" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Hunter" Player2="Meerkat" Winner="2" />
     <Match ID="b00d0ca221b94a408c9cf27cf52907b2" Timestamp="10/29/2016 3:12:55 PM" Order="26" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Cyp" Player2="Kendrick" Winner="2" />
     <Match ID="d4f8ea61e6e2428e918cf5ad9c8203f0" Timestamp="10/29/2016 3:12:55 PM" Order="27" Tournament="challonge - Smash Jam 19 Wii U Singles" Description="challonge - Smash Jam 19 Wii U Singles" Player1="Zen" Player2="Cole" Winner="2" />
@@ -970,7 +977,7 @@
     <Match ID="45984f01026641a299aa20b5e8c89f8f" Timestamp="11/5/2016 5:20:48 PM" Order="1" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Twinkie" Player2="Apparatus" Winner="2" />
     <Match ID="232bed02a9644d30a16d0ed19280b274" Timestamp="11/5/2016 5:20:48 PM" Order="2" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cardboardbear" Player2="CUTE" Winner="1" />
     <Match ID="28661903018e43e7bdc658e24e277f32" Timestamp="11/5/2016 5:20:48 PM" Order="3" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="8_bit_D" Player2="Dream" Winner="1" />
-    <Match ID="b9dbb6eb15a14922bf30d12e3d593919" Timestamp="11/5/2016 5:20:48 PM" Order="4" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Zen" Player2="n00b" Winner="1" />
+    <Match ID="b9dbb6eb15a14922bf30d12e3d593919" Timestamp="11/5/2016 5:20:48 PM" Order="4" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Zen" Player2="The Lorax" Winner="1" />
     <Match ID="395bc462ccdc4418972f69ed7644393f" Timestamp="11/5/2016 5:20:48 PM" Order="5" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Kendrick" Player2="Norms" Winner="1" />
     <Match ID="5c2844d0c4014a2c88137befa3f1cef6" Timestamp="11/5/2016 5:20:48 PM" Order="6" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="DrKBlaze" Player2="Apparatus" Winner="1" />
     <Match ID="473b9cb85efe4daca26a32f7b73a794c" Timestamp="11/5/2016 5:20:48 PM" Order="7" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cardboardbear" Player2="8_bit_D" Winner="2" />
@@ -982,7 +989,7 @@
     <Match ID="f099a4fb203b444a99900ce3d2113b08" Timestamp="11/5/2016 5:20:48 PM" Order="13" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="CUTE" Player2="Dream" Winner="1" />
     <Match ID="aa0cf753f3a9452ebb6cd92b30ab0246" Timestamp="11/5/2016 5:20:48 PM" Order="14" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cyp" Player2="Twinkie" Winner="1" />
     <Match ID="6bdfc328260641dfaab397c916b8fec4" Timestamp="11/5/2016 5:20:48 PM" Order="15" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Zen" Player2="CUTE" Winner="1" />
-    <Match ID="bd6d45e9ebdb4876b4ab0fbb26d4accf" Timestamp="11/5/2016 5:20:48 PM" Order="16" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cardboardbear" Player2="n00b" Winner="1" />
+    <Match ID="bd6d45e9ebdb4876b4ab0fbb26d4accf" Timestamp="11/5/2016 5:20:48 PM" Order="16" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cardboardbear" Player2="The Lorax" Winner="1" />
     <Match ID="2dda5cb321c14e11b975bfc294c90459" Timestamp="11/5/2016 5:20:48 PM" Order="17" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Apparatus" Player2="Norms" Winner="1" />
     <Match ID="471a9e2a3e5a4a969edfecffb6aba040" Timestamp="11/5/2016 5:20:48 PM" Order="18" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cyp" Player2="Zen" Winner="1" />
     <Match ID="f55a299d0e004087adc603afa86b1744" Timestamp="11/5/2016 5:20:48 PM" Order="19" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="Cardboardbear" Player2="Apparatus" Winner="2" />
@@ -994,13 +1001,13 @@
     <Match ID="27e694738eb4441e821c317d4db796dd" Timestamp="11/5/2016 5:20:48 PM" Order="25" Tournament="challonge - Smash Jam 20 Wii U Singles" Description="challonge - Smash Jam 20 Wii U Singles" Player1="DrKBlaze" Player2="Kruser" Winner="1" />
     <Match ID="b712c64fb3254583911dd7d694c0dd1c" Timestamp="12/3/2016 6:27:53 PM" Order="1" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Squidward" Player2="Janswer" Winner="2" />
     <Match ID="0a1bf3edc80c46818b91bdafa0cbb80e" Timestamp="12/3/2016 6:27:53 PM" Order="2" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Hunter" Player2="Bunk" Winner="1" />
-    <Match ID="5f989fbac21142a9bdd9d811bf5a3251" Timestamp="12/3/2016 6:27:53 PM" Order="3" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="n00b" Player2="Saucy" Winner="1" />
+    <Match ID="5f989fbac21142a9bdd9d811bf5a3251" Timestamp="12/3/2016 6:27:53 PM" Order="3" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="The Lorax" Player2="Saucy" Winner="1" />
     <Match ID="7468fb8aad094dca8df488e3cc463faa" Timestamp="12/3/2016 6:27:53 PM" Order="4" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Poskii" Player2="Kevin" Winner="1" />
     <Match ID="917775fb637c4cb19cc1cdff4b05b6a8" Timestamp="12/3/2016 6:27:53 PM" Order="5" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="DrKBlaze" Player2="Janswer" Winner="1" />
     <Match ID="36c09ef4394d4d318cfb7665707f2a53" Timestamp="12/3/2016 6:27:53 PM" Order="6" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Zen" Player2="G" Winner="2" />
     <Match ID="d97b33373e494cf5ab07c28588312bc4" Timestamp="12/3/2016 6:27:53 PM" Order="7" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="8_bit_D" Player2="Hunter" Winner="1" />
     <Match ID="cd8bda1706354f3280aba390650107c1" Timestamp="12/3/2016 6:27:53 PM" Order="8" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Cyp" Player2="Twinkie" Winner="1" />
-    <Match ID="99482773050b40ecb78e74abe99547ad" Timestamp="12/3/2016 6:27:53 PM" Order="9" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Kruser" Player2="n00b" Winner="1" />
+    <Match ID="99482773050b40ecb78e74abe99547ad" Timestamp="12/3/2016 6:27:53 PM" Order="9" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Kruser" Player2="The Lorax" Winner="1" />
     <Match ID="6976d587768045e4b315b54fcf0da805" Timestamp="12/3/2016 6:27:53 PM" Order="10" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Cardboardbear" Player2="HA$H" Winner="1" />
     <Match ID="9c11a9bd9a24400887dce45632f54415" Timestamp="12/3/2016 6:27:53 PM" Order="12" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Suhlivan" Player2="QTIP" Winner="1" />
     <Match ID="2a1ce79298904991ab3b9ce958b2465c" Timestamp="12/3/2016 6:27:53 PM" Order="13" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="DrKBlaze" Player2="G" Winner="1" />
@@ -1014,7 +1021,7 @@
     <Match ID="2108f6378e2a4b0396d88fdbec0b9570" Timestamp="12/3/2016 6:27:53 PM" Order="21" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="HA$H" Player2="Bunk" Winner="1" />
     <Match ID="0a0616d7bd9a4bb3b54c0d8d2e10a1f6" Timestamp="12/3/2016 6:27:53 PM" Order="22" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Twinkie" Player2="Saucy" Winner="2" />
     <Match ID="54843d7327d24e21baff81ba16b9f7de" Timestamp="12/3/2016 6:27:53 PM" Order="23" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Zen" Player2="Kevin" Winner="1" />
-    <Match ID="eac527be8a354b80b4fa8d9d5b0999ee" Timestamp="12/3/2016 6:27:53 PM" Order="25" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="n00b" Player2="HA$H" Winner="2" />
+    <Match ID="eac527be8a354b80b4fa8d9d5b0999ee" Timestamp="12/3/2016 6:27:53 PM" Order="25" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="The Lorax" Player2="HA$H" Winner="2" />
     <Match ID="19292b52f093449cbd1dc38c03d85b26" Timestamp="12/3/2016 6:27:53 PM" Order="26" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Hunter" Player2="Saucy" Winner="1" />
     <Match ID="4615a1d3c9fd449c9b9dbfe0da59ca0b" Timestamp="12/3/2016 6:27:53 PM" Order="27" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Janswer" Player2="Zen" Winner="1" />
     <Match ID="7d4dd98354cc478a9ed2e91ae37243a3" Timestamp="12/3/2016 6:27:53 PM" Order="28" Tournament="challonge - Smash Jam 21 Wii U Singles" Description="challonge - Smash Jam 21 Wii U Singles" Player1="Cyp" Player2="QTIP" Winner="1" />
@@ -1035,7 +1042,7 @@
     <Match ID="43413c305faf413a970101fbc02ea437" Timestamp="2/4/2017 6:46:14 PM" Order="5" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Phunky Sal" Player2="Rex" Winner="1" />
     <Match ID="d450dc5f805a48f3bfdb453e8733891c" Timestamp="2/4/2017 6:46:14 PM" Order="8" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Kahuza" Player2="Frito_Lay" Winner="1" />
     <Match ID="43204d7c6bdc419da0c93d94dad92605" Timestamp="2/4/2017 6:46:14 PM" Order="9" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Zen" Player2="Popsicle" Winner="2" />
-    <Match ID="15a42dfeecaf46c496fe5ac994ca593c" Timestamp="2/4/2017 6:46:14 PM" Order="10" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Saucy" Player2="n00b" Winner="1" />
+    <Match ID="15a42dfeecaf46c496fe5ac994ca593c" Timestamp="2/4/2017 6:46:14 PM" Order="10" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Saucy" Player2="The Lorax" Winner="1" />
     <Match ID="4da1cfabb902428f8e6ff74d2a03feac" Timestamp="2/4/2017 6:46:14 PM" Order="11" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="TKLN" Player2="Tilt-a-whirl" Winner="2" />
     <Match ID="bee29888791349c7a574d093cd486e12" Timestamp="2/4/2017 6:46:14 PM" Order="12" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Dr3AM" Player2="Squidward" Winner="1" />
     <Match ID="8a1833bec1e94e52bdbdea09389aebcd" Timestamp="2/4/2017 6:46:14 PM" Order="13" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="DrKBlaze" Player2="CUTE" Winner="1" />
@@ -1059,7 +1066,7 @@
     <Match ID="09a5d8e74cdd48a487e21cef0b52f7df" Timestamp="2/4/2017 6:46:14 PM" Order="33" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Saucy" Player2="Dream" Winner="2" />
     <Match ID="6523fc58e7f74aa38800b0b0b67ddc50" Timestamp="2/4/2017 6:46:14 PM" Order="35" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Cole" Player2="Rex" Winner="1" />
     <Match ID="e53cadd2a7cc4359ab6d18783ef6f637" Timestamp="2/4/2017 6:46:14 PM" Order="37" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Kendrick" Player2="Frito_Lay" Winner="1" />
-    <Match ID="c8b7abd273fe41069e9ef141e96c3be5" Timestamp="2/4/2017 6:46:14 PM" Order="38" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Cardboardbear" Player2="n00b" Winner="1" />
+    <Match ID="c8b7abd273fe41069e9ef141e96c3be5" Timestamp="2/4/2017 6:46:14 PM" Order="38" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Cardboardbear" Player2="The Lorax" Winner="1" />
     <Match ID="3fb1f601299a4ec7997ebad51a6c0eff" Timestamp="2/4/2017 6:46:14 PM" Order="39" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="CUTE" Player2="TKLN" Winner="2" />
     <Match ID="8969f0ec354a4abb9f88a5c1a779f159" Timestamp="2/4/2017 6:46:14 PM" Order="40" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Tilt-a-whirl" Player2="Dream" Winner="1" />
     <Match ID="893a5e7c49ce46e79a00f94a9dbfffe1" Timestamp="2/4/2017 6:46:14 PM" Order="41" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Derp" Player2="Cole" Winner="2" />
@@ -1076,7 +1083,7 @@
     <Match ID="00ba0e73524c4c89965c2885cd01e3a4" Timestamp="2/4/2017 6:46:14 PM" Order="52" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="DrKBlaze" Player2="Kruser" Winner="2" />
     <Match ID="d524e79cd53344e9af147827949a3440" Timestamp="2/4/2017 6:46:14 PM" Order="53" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Baba" Player2="Kruser" Winner="2" />
     <Match ID="8a3d81f401da4f80b404bdeef3be06eb" Timestamp="2/4/2017 6:46:14 PM" Order="54" Tournament="challonge - Smash Jam 22 Wii U Singles" Description="challonge - Smash Jam 22 Wii U Singles" Player1="Kahuza" Player2="Kruser" Winner="1" />
-    <Match ID="77cd2833d9ec4c4f99dfd85b9e4149ed" Timestamp="2/18/2017 2:46:20 PM" Order="1" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="TripleJ" Player2="n00b" Winner="1" />
+    <Match ID="77cd2833d9ec4c4f99dfd85b9e4149ed" Timestamp="2/18/2017 2:46:20 PM" Order="1" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="TripleJ" Player2="The Lorax" Winner="1" />
     <Match ID="d6db9b0448d842d59a49903e02038159" Timestamp="2/18/2017 2:46:20 PM" Order="2" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Phunky Sal" Player2="CUTE" Winner="1" />
     <Match ID="37160df734574657be41aa728f07f1f3" Timestamp="2/18/2017 2:46:20 PM" Order="3" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Saucy" Player2="SURN" Winner="1" />
     <Match ID="8880cf114ee54db79e4a9a8ef7c9acb2" Timestamp="2/18/2017 2:46:20 PM" Order="4" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="TKLN" Player2="Chuck Lubs" Winner="1" />
@@ -1087,7 +1094,7 @@
     <Match ID="16ac9aa77c944ca59feaef0287833a26" Timestamp="2/18/2017 2:46:20 PM" Order="9" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Cobalt" Player2="Bawk" Winner="1" />
     <Match ID="54ceaec5214741dbaa587670989edef0" Timestamp="2/18/2017 2:46:20 PM" Order="10" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Kruser" Player2="TKLN" Winner="1" />
     <Match ID="b8facb512b9b4c98a1d6f0c27f0e8033" Timestamp="2/18/2017 2:46:20 PM" Order="11" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Cobalt" Player2="Kruser" Winner="1" />
-    <Match ID="d2667ad3d4a6496c8cb2482e1782ee1b" Timestamp="2/18/2017 2:46:20 PM" Order="12" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="DrKBlaze" Player2="n00b" Winner="1" />
+    <Match ID="d2667ad3d4a6496c8cb2482e1782ee1b" Timestamp="2/18/2017 2:46:20 PM" Order="12" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="DrKBlaze" Player2="The Lorax" Winner="1" />
     <Match ID="80ab8cacb6cb4c459b8101beeec3f10d" Timestamp="2/18/2017 2:46:20 PM" Order="13" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Saucy" Player2="CUTE" Winner="2" />
     <Match ID="cd3307afec71480e9153e54cfe4c62af" Timestamp="2/18/2017 2:46:20 PM" Order="14" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="Phunky Sal" Player2="SURN" Winner="1" />
     <Match ID="14228a4257aa40d8b9e7663da903b066" Timestamp="2/18/2017 2:46:20 PM" Order="15" Tournament="challonge - Smash Jam 23 Wii U Singles" Description="challonge - Smash Jam 23 Wii U Singles" Player1="TripleJ" Player2="Chuck Lubs" Winner="1" />
@@ -1135,7 +1142,7 @@
     <Match ID="50ea61403a544fa5b29c8d62991f31db" Timestamp="3/4/2017 5:44:52 PM" Order="37" Tournament="challonge - Smash at Plattecon XXX Wii U Singles" Description="challonge - Smash at Plattecon XXX Wii U Singles" Player1="Kruser" Player2="Cobalt" Winner="2" />
     <Match ID="641cbada74e64496bdbea723ca8f3bc7" Timestamp="4/8/2017 6:05:11 PM" Order="1" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Zen" Player2="Twinkie" Winner="2" />
     <Match ID="c1243ca86731425aa8ca621c48d0a8d6" Timestamp="4/8/2017 6:05:11 PM" Order="2" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="TKLN" Player2="Squidward" Winner="1" />
-    <Match ID="1225076c94ad4f838bdea4bc0329a897" Timestamp="4/8/2017 6:05:11 PM" Order="3" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="8_bit_D" Player2="n00b" Winner="1" />
+    <Match ID="1225076c94ad4f838bdea4bc0329a897" Timestamp="4/8/2017 6:05:11 PM" Order="3" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="8_bit_D" Player2="The Lorax" Winner="1" />
     <Match ID="e75a1eed62d54b6191162534cb58e7fc" Timestamp="4/8/2017 6:05:11 PM" Order="4" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Cole" Player2="Saucy" Winner="2" />
     <Match ID="be22beb388444e54be8aa8ce4ca630fd" Timestamp="4/8/2017 6:05:11 PM" Order="5" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="DrKBlaze" Player2="Rex" Winner="1" />
     <Match ID="8da2b91f8f024c9786aae2a0d5725529" Timestamp="4/8/2017 6:05:11 PM" Order="6" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Cardboardbear" Player2="CUTE" Winner="1" />
@@ -1146,7 +1153,7 @@
     <Match ID="10323f144bbd4e37b09dd5edecec7644" Timestamp="4/8/2017 6:05:11 PM" Order="11" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Cobalt" Player2="8_bit_D" Winner="1" />
     <Match ID="f344ff9f2cfa44228741cd7326a9613c" Timestamp="4/8/2017 6:05:11 PM" Order="12" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Kruser" Player2="DrKBlaze" Winner="1" />
     <Match ID="203b0289d0af4b9aa63ba0c34fbee949" Timestamp="4/8/2017 6:05:11 PM" Order="13" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Cobalt" Player2="Kruser" Winner="1" />
-    <Match ID="38a91ffc959545148d5b5293f9ea0a08" Timestamp="4/8/2017 6:05:11 PM" Order="14" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Squidward" Player2="n00b" Winner="1" />
+    <Match ID="38a91ffc959545148d5b5293f9ea0a08" Timestamp="4/8/2017 6:05:11 PM" Order="14" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Squidward" Player2="The Lorax" Winner="1" />
     <Match ID="b238b41d0c314767a62b257c754ed5f4" Timestamp="4/8/2017 6:05:11 PM" Order="15" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Rex" Player2="CUTE" Winner="2" />
     <Match ID="e6f7051c895e44ba8264146027697847" Timestamp="4/8/2017 6:05:11 PM" Order="16" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Cardboardbear" Player2="Zen" Winner="1" />
     <Match ID="0764368ea2994ea3ac10dc59b4720cdb" Timestamp="4/8/2017 6:05:11 PM" Order="17" Tournament="Smash Jam 24 Wii U Singles" Description="challonge - Smash Jam 24 Wii U Singles" Player1="Saucy" Player2="Squidward" Winner="2" />
@@ -1163,7 +1170,7 @@
     <Match ID="c102d76844514492ac9f0ed68ac56764" Timestamp="4/22/2017 5:38:11 PM" Order="1" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DelaHammer" Player2="Meerkat" Winner="1" />
     <Match ID="6aeb0a19266f40d596d86d2211fa972c" Timestamp="4/22/2017 5:38:11 PM" Order="2" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Kendrick" Player2="Hunter" Winner="1" />
     <Match ID="d1074a791c8240ec95262cd8621aedc8" Timestamp="4/22/2017 5:38:11 PM" Order="3" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Cardboardbear" Player2="W" Winner="1" />
-    <Match ID="bd06bb1bd2354204ba14016968a0d9d5" Timestamp="4/22/2017 5:38:11 PM" Order="4" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DrKBlaze" Player2="n00b" Winner="1" />
+    <Match ID="bd06bb1bd2354204ba14016968a0d9d5" Timestamp="4/22/2017 5:38:11 PM" Order="4" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DrKBlaze" Player2="The Lorax" Winner="1" />
     <Match ID="77f82bdcd58349e29754c28b3e2fa3f0" Timestamp="4/22/2017 5:38:11 PM" Order="5" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Salvo" Player2="Twinkie" Winner="2" />
     <Match ID="154ae81088ba4ae29be42f4324a7961f" Timestamp="4/22/2017 5:38:11 PM" Order="6" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="TKLN" Player2="Bunk" Winner="1" />
     <Match ID="8fcbf3edd6044dc3bd6bf4f0d04b4b1c" Timestamp="4/22/2017 5:38:11 PM" Order="7" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="ArgonianCream" Player2="CUTE" Winner="1" />
@@ -1175,11 +1182,11 @@
     <Match ID="a1f932ef500345c096e536f0cb454ca1" Timestamp="4/22/2017 5:38:11 PM" Order="13" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DrKBlaze" Player2="ArgonianCream" Winner="2" />
     <Match ID="703e8e0823204e40b4d2ee07371b8e98" Timestamp="4/22/2017 5:38:11 PM" Order="14" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Kendrick" Player2="ArgonianCream" Winner="2" />
     <Match ID="fb01e4325cc0434c9350dd0fb4ea36f4" Timestamp="4/22/2017 5:38:11 PM" Order="15" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Hunter" Player2="W" Winner="1" />
-    <Match ID="242cd0bdfb8b4adf8319b8dde0b7ae14" Timestamp="4/22/2017 5:38:11 PM" Order="16" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="n00b" Player2="Salvo" Winner="1" />
+    <Match ID="242cd0bdfb8b4adf8319b8dde0b7ae14" Timestamp="4/22/2017 5:38:11 PM" Order="16" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="The Lorax" Player2="Salvo" Winner="1" />
     <Match ID="193fe65fac4741f49c0ce28ac972f9c5" Timestamp="4/22/2017 5:38:11 PM" Order="17" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Bunk" Player2="CUTE" Winner="2" />
     <Match ID="4b60f7b4e80d4adc9bd72ca87003cd62" Timestamp="4/22/2017 5:38:11 PM" Order="18" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="TKLN" Player2="Meerkat" Winner="1" />
     <Match ID="b9fd34e471ad45358d0c634e9c2dd4f4" Timestamp="4/22/2017 5:38:11 PM" Order="19" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Twinkie" Player2="Hunter" Winner="2" />
-    <Match ID="9423c6d16e494413873ff78d48ed2ce4" Timestamp="4/22/2017 5:38:11 PM" Order="20" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Cardboardbear" Player2="n00b" Winner="1" />
+    <Match ID="9423c6d16e494413873ff78d48ed2ce4" Timestamp="4/22/2017 5:38:11 PM" Order="20" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Cardboardbear" Player2="The Lorax" Winner="1" />
     <Match ID="873401635b934cd48b086cb26b316b4d" Timestamp="4/22/2017 5:38:11 PM" Order="21" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DelaHammer" Player2="CUTE" Winner="1" />
     <Match ID="5f2a9dd5908649668c87a12ffbada182" Timestamp="4/22/2017 5:38:11 PM" Order="22" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="TKLN" Player2="Hunter" Winner="1" />
     <Match ID="357ba51715614c158ddfbe1a3cb5c338" Timestamp="4/22/2017 5:38:11 PM" Order="23" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="Cardboardbear" Player2="DelaHammer" Winner="1" />
@@ -1191,7 +1198,7 @@
     <Match ID="e4865b8a89424f53bbfd6fcea67fe263" Timestamp="4/22/2017 5:38:11 PM" Order="29" Tournament="Smash Jam 25 Wii U Singles" Description="challonge - Smash Jam 25 Wii U Singles" Player1="DrKBlaze" Player2="ArgonianCream" Winner="1" />
     <Match ID="c1df0177468249bdbcbb94bf8be9754e" Timestamp="5/6/2017 5:34:15 PM" Order="1" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Kruser" Player2="Amp" Winner="1" />
     <Match ID="eb4c0dc5511c47f1ae54037fff4247ff" Timestamp="5/6/2017 5:34:15 PM" Order="2" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Squidward" Player2="Chuck Lubs" Winner="1" />
-    <Match ID="a809c20fb0b2474bbd95237a74f227d1" Timestamp="5/6/2017 5:34:15 PM" Order="3" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Cardboardbear" Player2="n00b" Winner="1" />
+    <Match ID="a809c20fb0b2474bbd95237a74f227d1" Timestamp="5/6/2017 5:34:15 PM" Order="3" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Cardboardbear" Player2="The Lorax" Winner="1" />
     <Match ID="3a8441f88973491396f383dd6ac352b3" Timestamp="5/6/2017 5:34:15 PM" Order="4" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Hunter" Player2="CUTE" Winner="1" />
     <Match ID="cf0ed20861c84085b860633831dc38c9" Timestamp="5/6/2017 5:34:15 PM" Order="5" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="DrKBlaze" Player2="Loki" Winner="1" />
     <Match ID="d573a5341bde4c8b9b69996ad99ff7fe" Timestamp="5/6/2017 5:34:15 PM" Order="6" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Saucy" Player2="Cryo" Winner="1" />
@@ -1205,7 +1212,7 @@
     <Match ID="4d08617b0ee540648e1c069b4670b5ae" Timestamp="5/6/2017 5:34:15 PM" Order="14" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="DrKBlaze" Player2="TKLN" Winner="1" />
     <Match ID="d79b4bf276c14fc1be72a594e53d7e03" Timestamp="5/6/2017 5:34:15 PM" Order="15" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Kruser" Player2="DrKBlaze" Winner="2" />
     <Match ID="7a701d1ca06d4559888d4670f22cf767" Timestamp="5/6/2017 5:34:15 PM" Order="16" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Amp" Player2="Chuck Lubs" Winner="2" />
-    <Match ID="6cdff5ac580c4e42a951b7dfad0318ec" Timestamp="5/6/2017 5:34:15 PM" Order="17" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="n00b" Player2="CUTE" Winner="2" />
+    <Match ID="6cdff5ac580c4e42a951b7dfad0318ec" Timestamp="5/6/2017 5:34:15 PM" Order="17" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="The Lorax" Player2="CUTE" Winner="2" />
     <Match ID="e935007be3fa480aa42ef550e2e0bc8f" Timestamp="5/6/2017 5:34:15 PM" Order="18" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Loki" Player2="Cryo" Winner="2" />
     <Match ID="cc59a6356bb64b3ab442495f1db4b0ce" Timestamp="5/6/2017 5:34:15 PM" Order="19" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="TyeDye" Player2="Bunk" Winner="2" />
     <Match ID="07d7e903887e4fcb9c432ca9e51a9409" Timestamp="5/6/2017 5:34:15 PM" Order="20" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Twinkie" Player2="Chuck Lubs" Winner="2" />
@@ -1219,5 +1226,133 @@
     <Match ID="41f5067fa51d41ee8c1ba0be7d1678d7" Timestamp="5/6/2017 5:34:15 PM" Order="28" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Cardboardbear" Player2="TKLN" Winner="2" />
     <Match ID="f4d08348e65a4f5d8886452549a35c25" Timestamp="5/6/2017 5:34:15 PM" Order="29" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="Kruser" Player2="TKLN" Winner="2" />
     <Match ID="0d9e4c3981cd4b21b4a38302b1ca6166" Timestamp="5/6/2017 5:34:15 PM" Order="30" Tournament="Smash Jam 26 Wii U Singles" Description="challonge - Smash Jam 26 Wii U Singles" Player1="DrKBlaze" Player2="TKLN" Winner="1" />
+    <Match ID="155ee85f09bd45288079d4cf3532b72f" Timestamp="9/16/2017 4:03:37 PM" Order="1" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Kruser" Player2="The Lorax" Winner="1" />
+    <Match ID="32fb390abb2a4abda9160a33d6d25855" Timestamp="9/16/2017 4:03:37 PM" Order="2" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="CUTE" Player2="Dream" Winner="2" />
+    <Match ID="e8cdde6f01c14cad950a754e7fa81f7f" Timestamp="9/16/2017 4:03:37 PM" Order="3" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="TKLN" Player2="Diet" Winner="1" />
+    <Match ID="7b2506197f564cafa21193a74f12b8fa" Timestamp="9/16/2017 4:03:37 PM" Order="4" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Suhlivan" Player2="Logic" Winner="1" />
+    <Match ID="2c1661d90da7413698d57e3f7034f686" Timestamp="9/16/2017 4:03:37 PM" Order="5" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="DrKBlaze" Player2="Dez" Winner="1" />
+    <Match ID="b7ab34f6bd054e9aa3087dec97b57e41" Timestamp="9/16/2017 4:03:37 PM" Order="6" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="QTIP" Player2="Saucy" Winner="1" />
+    <Match ID="e7836e8008e34568af2b1b79437d1d3d" Timestamp="9/16/2017 4:03:37 PM" Order="7" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="8_bit_D" Player2="MOMMY" Winner="2" />
+    <Match ID="bce714da437d4e209a84eaa7bafc208a" Timestamp="9/16/2017 4:03:37 PM" Order="8" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Twinkie" Player2="Amp" Winner="1" />
+    <Match ID="7779afb1a8174526974145f0411b7e48" Timestamp="9/16/2017 4:03:37 PM" Order="9" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Kruser" Player2="Dream" Winner="1" />
+    <Match ID="3dd503f0eb274617984540fc62ffb56c" Timestamp="9/16/2017 4:03:37 PM" Order="10" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="TKLN" Player2="Suhlivan" Winner="1" />
+    <Match ID="ee534e2d4fb24afe91952ca320c70cf0" Timestamp="9/16/2017 4:03:37 PM" Order="11" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="DrKBlaze" Player2="QTIP" Winner="1" />
+    <Match ID="6081d78ec64e4f608643d2f5136e6c19" Timestamp="9/16/2017 4:03:37 PM" Order="12" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="MOMMY" Player2="Twinkie" Winner="1" />
+    <Match ID="6896a3e39c844b54bd67d465eb447074" Timestamp="9/16/2017 4:03:37 PM" Order="13" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Kruser" Player2="TKLN" Winner="1" />
+    <Match ID="7574546c347640899be349455dfb3a65" Timestamp="9/16/2017 4:03:37 PM" Order="14" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="DrKBlaze" Player2="MOMMY" Winner="1" />
+    <Match ID="2011ba0ff5054957930ebcf18cb2289e" Timestamp="9/16/2017 4:03:37 PM" Order="15" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Kruser" Player2="DrKBlaze" Winner="2" />
+    <Match ID="a940ba31b78f4904a55266423266c76c" Timestamp="9/16/2017 4:03:37 PM" Order="16" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="The Lorax" Player2="CUTE" Winner="2" />
+    <Match ID="ef7559e526a8427d8f90166237cdf596" Timestamp="9/16/2017 4:03:37 PM" Order="17" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Diet" Player2="Logic" Winner="2" />
+    <Match ID="8092b85a2c74492899887223a3190e10" Timestamp="9/16/2017 4:03:37 PM" Order="18" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Dez" Player2="Saucy" Winner="2" />
+    <Match ID="596812351f104f22ba4579e8035b0081" Timestamp="9/16/2017 4:03:37 PM" Order="20" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Twinkie" Player2="CUTE" Winner="1" />
+    <Match ID="e8902ebf3cc040d69509404b8721c59f" Timestamp="9/16/2017 4:03:37 PM" Order="21" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="QTIP" Player2="Logic" Winner="1" />
+    <Match ID="57bc7e593e0f46e89b04c18ffb329301" Timestamp="9/16/2017 4:03:37 PM" Order="22" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Suhlivan" Player2="Saucy" Winner="1" />
+    <Match ID="ffbaacb5ef98456d8380f749f1f370d5" Timestamp="9/16/2017 4:03:37 PM" Order="23" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Dream" Player2="Amp" Winner="1" />
+    <Match ID="28cf52d51631455bbd79826b1e40461f" Timestamp="9/16/2017 4:03:37 PM" Order="24" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Twinkie" Player2="QTIP" Winner="1" />
+    <Match ID="095644cfdf7f4e42b182ee7232a53c57" Timestamp="9/16/2017 4:03:37 PM" Order="25" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Suhlivan" Player2="Dream" Winner="1" />
+    <Match ID="70c07bb3ec214681b07273638ad7f047" Timestamp="9/16/2017 4:03:37 PM" Order="26" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="TKLN" Player2="Twinkie" Winner="2" />
+    <Match ID="c2d4cb29ac2d474f80382fa70b9b3dc3" Timestamp="9/16/2017 4:03:37 PM" Order="27" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="MOMMY" Player2="Suhlivan" Winner="1" />
+    <Match ID="1f9e113ef4094adbace7044b3a6c99f8" Timestamp="9/16/2017 4:03:37 PM" Order="28" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Twinkie" Player2="MOMMY" Winner="2" />
+    <Match ID="6185092cff8c4329a6c9cc46d041eeaf" Timestamp="9/16/2017 4:03:37 PM" Order="29" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="Kruser" Player2="MOMMY" Winner="2" />
+    <Match ID="3921abc0ae6e4b18a04d1dbc172cb432" Timestamp="9/16/2017 4:03:37 PM" Order="30" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="DrKBlaze" Player2="MOMMY" Winner="2" />
+    <Match ID="0c0f272cd4894c2389f533c2c3e0160e" Timestamp="9/16/2017 4:03:37 PM" Order="31" Tournament="Smash Jam 27 Wii U singles" Description="challonge - Smash Jam 27 Wii U singles" Player1="MOMMY" Player2="DrKBlaze" Winner="1" />
+    <Match ID="f8d303710a054345a0f86cb4eb0f70c8" Timestamp="10/7/2017 3:16:50 PM" Order="1" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cyp" Player2="Cardboardbear" Winner="2" />
+    <Match ID="f6899c21eb304d6081d53a7490c08ecb" Timestamp="10/7/2017 3:16:50 PM" Order="2" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="MOMMY" Player2="The Lorax" Winner="1" />
+    <Match ID="4e5b5f95971044869246a4ba3cbbf098" Timestamp="10/7/2017 3:16:50 PM" Order="3" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="TKLN" Player2="Saucy" Winner="2" />
+    <Match ID="5aec157af4934d55a289a9def575f288" Timestamp="10/7/2017 3:16:50 PM" Order="4" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Kendrick" Player2="Hunter" Winner="1" />
+    <Match ID="c461df04b4734d8bb197418df5ebf3e0" Timestamp="10/7/2017 3:16:50 PM" Order="5" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Kruser" Player2="StowAway" Winner="1" />
+    <Match ID="24f26ade7b0047d8a822eb6def2bdcc6" Timestamp="10/7/2017 3:16:50 PM" Order="6" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Suhlivan" Player2="Twinkie" Winner="1" />
+    <Match ID="89f30eff7ce64fc1b12d7e06d5ed5007" Timestamp="10/7/2017 3:16:50 PM" Order="7" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cobalt" Player2="Cardboardbear" Winner="1" />
+    <Match ID="90f54f70205b4079989167a690b461a5" Timestamp="10/7/2017 3:16:50 PM" Order="8" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="MOMMY" Player2="Saucy" Winner="1" />
+    <Match ID="06aea3d72303404eabab8cd251856a6b" Timestamp="10/7/2017 3:16:50 PM" Order="9" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="DrKBlaze" Player2="Kendrick" Winner="1" />
+    <Match ID="739cb3e4c9cc4f3d8d28fdb0f5e7394d" Timestamp="10/7/2017 3:16:50 PM" Order="10" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Kruser" Player2="Suhlivan" Winner="1" />
+    <Match ID="db17a5affb7c49f49459d1152094127d" Timestamp="10/7/2017 3:16:50 PM" Order="11" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cobalt" Player2="MOMMY" Winner="2" />
+    <Match ID="f6e65cbeacfe4df2b8ead3ab000c942c" Timestamp="10/7/2017 3:16:50 PM" Order="12" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="DrKBlaze" Player2="Kruser" Winner="1" />
+    <Match ID="0728073c08424b93850d591014c3a761" Timestamp="10/7/2017 3:16:50 PM" Order="13" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="MOMMY" Player2="DrKBlaze" Winner="2" />
+    <Match ID="12551dd72260476f95bb8f17562a9de0" Timestamp="10/7/2017 3:16:50 PM" Order="14" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="The Lorax" Player2="TKLN" Winner="2" />
+    <Match ID="ea1972be12ba4194bad9355e0e9a9c6c" Timestamp="10/7/2017 3:16:50 PM" Order="15" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="StowAway" Player2="Twinkie" Winner="2" />
+    <Match ID="2c986a2f992f43acaf459e8231ebb74c" Timestamp="10/7/2017 3:16:50 PM" Order="16" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Suhlivan" Player2="Cyp" Winner="1" />
+    <Match ID="9cf2e6bbfc9f4f64877c91b7b12d0359" Timestamp="10/7/2017 3:16:50 PM" Order="17" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Kendrick" Player2="TKLN" Winner="2" />
+    <Match ID="42bfce0856684cd7b27115d516851d58" Timestamp="10/7/2017 3:16:50 PM" Order="18" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Saucy" Player2="Hunter" Winner="1" />
+    <Match ID="ee9d28ad7fee4cfe81c732a09cfdd849" Timestamp="10/7/2017 3:16:50 PM" Order="19" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cardboardbear" Player2="Twinkie" Winner="1" />
+    <Match ID="6fd94d8ee7174569a22b3c77ed5d5ca1" Timestamp="10/7/2017 3:16:50 PM" Order="20" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Suhlivan" Player2="TKLN" Winner="1" />
+    <Match ID="7ec78e073a09453b863e276286636978" Timestamp="10/7/2017 3:16:50 PM" Order="21" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Saucy" Player2="Cardboardbear" Winner="2" />
+    <Match ID="2d6e7aee59b549e2aa27f2c451a7e17d" Timestamp="10/7/2017 3:16:50 PM" Order="22" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cobalt" Player2="Suhlivan" Winner="1" />
+    <Match ID="903e82e1804d4fe18f8d3a1bea730768" Timestamp="10/7/2017 3:16:50 PM" Order="23" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Kruser" Player2="Cardboardbear" Winner="1" />
+    <Match ID="d6623f76977e4d76a3173f44d56747f1" Timestamp="10/7/2017 3:16:50 PM" Order="24" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="Cobalt" Player2="Kruser" Winner="1" />
+    <Match ID="1f0efabd28994c36863aae08a36a78c3" Timestamp="10/7/2017 3:16:50 PM" Order="25" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="MOMMY" Player2="Cobalt" Winner="2" />
+    <Match ID="8317b0f0255d4d41a675a5c7de96f2d0" Timestamp="10/7/2017 3:16:50 PM" Order="26" Tournament="Smash Jam 28 Wii U singles" Description="challonge - Smash Jam 28 Wii U singles" Player1="DrKBlaze" Player2="Cobalt" Winner="1" />
+    <Match ID="d547f0fde73848369a51acbf8813af94" Timestamp="10/28/2017 7:13:21 PM" Order="1" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Twinkie" Player2="The Lorax" Winner="1" />
+    <Match ID="733ef86cf3d14eb99b9d6b551e25abc3" Timestamp="10/28/2017 7:13:21 PM" Order="2" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Kruser" Player2="Retz" Winner="1" />
+    <Match ID="138c2652071f44d6a1ee1bfa81470ffb" Timestamp="10/28/2017 7:13:21 PM" Order="3" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Bawk" Player2="Cole" Winner="1" />
+    <Match ID="8439eb417fb2495cabef6654f932bdbb" Timestamp="10/28/2017 7:13:21 PM" Order="4" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cobalt" Player2="Ben" Winner="1" />
+    <Match ID="3e7b3170379248359ddc2c990cd42c96" Timestamp="10/28/2017 7:13:21 PM" Order="5" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="TKLN" Player2="JustChristian" Winner="2" />
+    <Match ID="dc09adca505d4a87870dfff3114c1209" Timestamp="10/28/2017 7:13:21 PM" Order="6" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="MOMMY" Player2="Neefe" Winner="1" />
+    <Match ID="c24d17e22315433f85a82024af696b0b" Timestamp="10/28/2017 7:13:21 PM" Order="7" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cardboardbear" Player2="CUTE" Winner="1" />
+    <Match ID="ada57a387c92417cb9ad032455a75f97" Timestamp="10/28/2017 7:13:21 PM" Order="8" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="DrKBlaze" Player2="Twinkie" Winner="1" />
+    <Match ID="511dd334ab87481fa3a102b8b68d8c12" Timestamp="10/28/2017 7:13:21 PM" Order="9" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Kruser" Player2="Bawk" Winner="2" />
+    <Match ID="5904139d86a340fc81dd425e1e654fc7" Timestamp="10/28/2017 7:13:21 PM" Order="10" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cobalt" Player2="JustChristian" Winner="1" />
+    <Match ID="5c7f173110e944baba74783b296e6023" Timestamp="10/28/2017 7:13:21 PM" Order="11" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="MOMMY" Player2="Cardboardbear" Winner="1" />
+    <Match ID="0789ee3af1e24a9483d23e82e5468159" Timestamp="10/28/2017 7:13:21 PM" Order="12" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="DrKBlaze" Player2="Bawk" Winner="1" />
+    <Match ID="b5ad983966ee4ff0af167d4181932b00" Timestamp="10/28/2017 7:13:21 PM" Order="13" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cobalt" Player2="MOMMY" Winner="1" />
+    <Match ID="e6dd1f8110954dcdbcbbfa2d5e021311" Timestamp="10/28/2017 7:13:21 PM" Order="14" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="DrKBlaze" Player2="Cobalt" Winner="2" />
+    <Match ID="94fd465bcf2b44a2b9a9a97dd4f4d549" Timestamp="10/28/2017 7:13:21 PM" Order="15" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Retz" Player2="Cole" Winner="2" />
+    <Match ID="e307ce64371347b38d5d9822ba92f847" Timestamp="10/28/2017 7:13:21 PM" Order="16" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Ben" Player2="TKLN" Winner="2" />
+    <Match ID="80c7e6836ca5479f821a191b40e3862d" Timestamp="10/28/2017 7:13:21 PM" Order="17" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Neefe" Player2="CUTE" Winner="1" />
+    <Match ID="abd83eb810dd4248acab9e9c79299442" Timestamp="10/28/2017 7:13:21 PM" Order="18" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cardboardbear" Player2="The Lorax" Winner="1" />
+    <Match ID="a8449489eec640a98ebe0c14a40ef41f" Timestamp="10/28/2017 7:13:21 PM" Order="19" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="JustChristian" Player2="Cole" Winner="1" />
+    <Match ID="75d5f849619b4569bad2575468078649" Timestamp="10/28/2017 7:13:21 PM" Order="20" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Kruser" Player2="TKLN" Winner="2" />
+    <Match ID="3aaf9d8c314748e6935b97492d32fdc6" Timestamp="10/28/2017 7:13:21 PM" Order="21" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Twinkie" Player2="Neefe" Winner="1" />
+    <Match ID="025b466cdf3b49ac80e27889cea42da5" Timestamp="10/28/2017 7:13:21 PM" Order="22" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cardboardbear" Player2="JustChristian" Winner="2" />
+    <Match ID="65a007adcab94b9daf45cd4b2c0972b8" Timestamp="10/28/2017 7:13:21 PM" Order="23" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="TKLN" Player2="Twinkie" Winner="1" />
+    <Match ID="895420c9ef04466283449a8f320cee91" Timestamp="10/28/2017 7:13:21 PM" Order="24" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Bawk" Player2="JustChristian" Winner="2" />
+    <Match ID="f6061c452fcf49f1a1d4914efb5b2e42" Timestamp="10/28/2017 7:13:21 PM" Order="25" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="MOMMY" Player2="TKLN" Winner="1" />
+    <Match ID="956773f3e4ba4ba4b8ed84d5bcc5c87b" Timestamp="10/28/2017 7:13:21 PM" Order="26" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="JustChristian" Player2="MOMMY" Winner="2" />
+    <Match ID="3d586eaf117d472dbd3e27091be0138f" Timestamp="10/28/2017 7:13:21 PM" Order="27" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="DrKBlaze" Player2="MOMMY" Winner="1" />
+    <Match ID="7c850808a81b4e78bed12dfce76351e8" Timestamp="10/28/2017 7:13:21 PM" Order="28" Tournament="Smash Jam 29 Wii U Singles" Description="challonge - Smash Jam 29 Wii U Singles" Player1="Cobalt" Player2="DrKBlaze" Winner="1" />
+    <Match ID="eb15fab1b6064cbc9d864efdf73e23ea" Timestamp="11/11/2017 5:41:43 PM" Order="1" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Saucy" Player2="Cardboardbear" Winner="2" />
+    <Match ID="5dc4691dae8c4c3fa6857125591194aa" Timestamp="11/11/2017 5:41:43 PM" Order="2" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="The Lorax" Player2="Chuck Lubs" Winner="2" />
+    <Match ID="1c4475d60d3b42cc9f45b27a9b48d432" Timestamp="11/11/2017 5:41:43 PM" Order="3" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Kendrick" Player2="Kyle" Winner="1" />
+    <Match ID="49384ddad81a4dc9a33d92af9b43c37d" Timestamp="11/11/2017 5:41:43 PM" Order="4" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cobalt" Player2="Cardboardbear" Winner="1" />
+    <Match ID="31d62f4a56474a3db52e4ddcdf82d73a" Timestamp="11/11/2017 5:41:43 PM" Order="5" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Kruser" Player2="TKLN" Winner="2" />
+    <Match ID="48089ad62bb545c8999a73d7c4c190ea" Timestamp="11/11/2017 5:41:43 PM" Order="6" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="DrKBlaze" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="257a1905d134456b8594d45018d47345" Timestamp="11/11/2017 5:41:43 PM" Order="7" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="MOMMY" Player2="Kendrick" Winner="1" />
+    <Match ID="8d51e0bed2e44b59905f0544b0ee4876" Timestamp="11/11/2017 5:41:43 PM" Order="8" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cobalt" Player2="TKLN" Winner="2" />
+    <Match ID="1d781a083ff243f48553f6cb4bbe4ed3" Timestamp="11/11/2017 5:41:43 PM" Order="9" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="DrKBlaze" Player2="MOMMY" Winner="1" />
+    <Match ID="26145c6476284ffa9fb55cf89be1cb75" Timestamp="11/11/2017 5:41:43 PM" Order="10" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="TKLN" Player2="DrKBlaze" Winner="2" />
+    <Match ID="ac0ce7e505964d62afa924020b2b95f2" Timestamp="11/11/2017 5:41:43 PM" Order="11" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Kendrick" Player2="Saucy" Winner="1" />
+    <Match ID="86b7508873974432ba780106107e6933" Timestamp="11/11/2017 5:41:43 PM" Order="12" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Kruser" Player2="The Lorax" Winner="1" />
+    <Match ID="81bc8ff24352494687f44ea84dfbc159" Timestamp="11/11/2017 5:41:43 PM" Order="13" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cardboardbear" Player2="Kyle" Winner="1" />
+    <Match ID="809e87dd16ab4c0993843ef5fd94b7f0" Timestamp="11/11/2017 5:41:43 PM" Order="14" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Chuck Lubs" Player2="Kendrick" Winner="2" />
+    <Match ID="d11f455fa5764d5cb94a0be6ba4bf58c" Timestamp="11/11/2017 5:41:43 PM" Order="15" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Kruser" Player2="Cardboardbear" Winner="1" />
+    <Match ID="3e8f264d213d429da0431e388d58cf8d" Timestamp="11/11/2017 5:41:43 PM" Order="16" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cobalt" Player2="Kendrick" Winner="1" />
+    <Match ID="76523fbae27c489c8320111e8569b1b1" Timestamp="11/11/2017 5:41:43 PM" Order="17" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="MOMMY" Player2="Kruser" Winner="2" />
+    <Match ID="67cc628de23a426eb9af8e1f5617fbf2" Timestamp="11/11/2017 5:41:43 PM" Order="18" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cobalt" Player2="Kruser" Winner="1" />
+    <Match ID="1954b4f74b624890b28aa6aa2762c263" Timestamp="11/11/2017 5:41:43 PM" Order="19" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="TKLN" Player2="Cobalt" Winner="2" />
+    <Match ID="55f965fe3e1a457290d19d0f630b8b1d" Timestamp="11/11/2017 5:41:43 PM" Order="20" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="DrKBlaze" Player2="Cobalt" Winner="2" />
+    <Match ID="e0f64d5e02d040efb69e47e2db8e57be" Timestamp="11/11/2017 5:41:43 PM" Order="21" Tournament="Smash Jam 30 Wii U Singles" Description="challonge - Smash Jam 30 Wii U Singles" Player1="Cobalt" Player2="DrKBlaze" Winner="1" />
+    <Match ID="1a367bf8081b4873a7488b42aea47386" Timestamp="12/2/2017 5:59:25 PM" Order="1" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Saucy" Player2="Hunter" Winner="1" />
+    <Match ID="de1be3e0ebd3449286dd61f72a5f4e68" Timestamp="12/2/2017 5:59:25 PM" Order="2" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="8_bit_D" Player2="Basted" Winner="1" />
+    <Match ID="00dfb922290746878b745254d15281f7" Timestamp="12/2/2017 5:59:25 PM" Order="3" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cardboardbear" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="7673f227c5a64a858ba55d00f5cb4415" Timestamp="12/2/2017 5:59:25 PM" Order="4" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Kendrick" Player2="CUTE" Winner="1" />
+    <Match ID="9dbca2a87cbb43eea840333f85bcb8aa" Timestamp="12/2/2017 5:59:25 PM" Order="5" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cobalt" Player2="Saucy" Winner="1" />
+    <Match ID="66095f65cd5a41f4839900cce160b8d9" Timestamp="12/2/2017 5:59:25 PM" Order="6" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Suhlivan" Player2="8_bit_D" Winner="2" />
+    <Match ID="a2335b361cc34527b262c022c343d9a0" Timestamp="12/2/2017 5:59:25 PM" Order="7" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="DrKBlaze" Player2="Cardboardbear" Winner="1" />
+    <Match ID="7bc1fded3fbe4fadb5bb169a56550dbd" Timestamp="12/2/2017 5:59:25 PM" Order="8" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="TKLN" Player2="Kendrick" Winner="1" />
+    <Match ID="3dd43e0d540f46ac9a56ef09f37a1be8" Timestamp="12/2/2017 5:59:25 PM" Order="9" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cobalt" Player2="8_bit_D" Winner="2" />
+    <Match ID="a11b50e2636b43f4bf756a27ca44ed6a" Timestamp="12/2/2017 5:59:25 PM" Order="10" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="DrKBlaze" Player2="TKLN" Winner="1" />
+    <Match ID="50a5cb0f67d743b49512bcd3bc1a3d3b" Timestamp="12/2/2017 5:59:25 PM" Order="11" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="8_bit_D" Player2="DrKBlaze" Winner="2" />
+    <Match ID="02a799bffb94477a9b8d9f77d4cace0d" Timestamp="12/2/2017 5:59:25 PM" Order="12" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Kendrick" Player2="Hunter" Winner="1" />
+    <Match ID="9402dd15d1de49fc81043f70a3e02637" Timestamp="12/2/2017 5:59:25 PM" Order="13" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cardboardbear" Player2="Basted" Winner="1" />
+    <Match ID="99cdb6cd19f24912839a158400ff449c" Timestamp="12/2/2017 5:59:25 PM" Order="14" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Suhlivan" Player2="Chuck Lubs" Winner="1" />
+    <Match ID="16b04a84606d4e7bbbc238974f3289eb" Timestamp="12/2/2017 5:59:25 PM" Order="15" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Saucy" Player2="CUTE" Winner="1" />
+    <Match ID="1672ffcda8374b1c9c6da6d3910c5e77" Timestamp="12/2/2017 5:59:25 PM" Order="16" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Kendrick" Player2="Cardboardbear" Winner="2" />
+    <Match ID="ad6e6880edc640e0a7e5e0121eb69a24" Timestamp="12/2/2017 5:59:25 PM" Order="17" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Suhlivan" Player2="Saucy" Winner="1" />
+    <Match ID="09cf6f68bb5e4d97af245e32ce21cff9" Timestamp="12/2/2017 5:59:25 PM" Order="18" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cobalt" Player2="Cardboardbear" Winner="1" />
+    <Match ID="cfdad604885b4621af549c14a54ec895" Timestamp="12/2/2017 5:59:25 PM" Order="19" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="TKLN" Player2="Suhlivan" Winner="2" />
+    <Match ID="d715ceb4900f461485496a8b0a781544" Timestamp="12/2/2017 5:59:25 PM" Order="20" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cobalt" Player2="Suhlivan" Winner="1" />
+    <Match ID="768e9587a7434963bb7ee22aa91dc62d" Timestamp="12/2/2017 5:59:25 PM" Order="21" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="8_bit_D" Player2="Cobalt" Winner="2" />
+    <Match ID="f976284308414432b0353bb399770323" Timestamp="12/2/2017 5:59:25 PM" Order="22" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="DrKBlaze" Player2="Cobalt" Winner="2" />
+    <Match ID="eb65a0c6b1334466a876d64de234b633" Timestamp="12/2/2017 5:59:25 PM" Order="23" Tournament="Smash Jam 31 Wii U Singles" Description="challonge - Smash Jam 31 Wii U Singles" Player1="Cobalt" Player2="DrKBlaze" Winner="1" />
   </Matches>
 </SK92>
