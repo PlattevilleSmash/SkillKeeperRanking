@@ -6,8 +6,8 @@
     <Player Name="oh" Team="Dubuque" Invisible="false" Characters="" Alts="Oh;Ho" />
     <Player Name="Zen" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Poskii" Team="Platteville" Invisible="false" Characters="" Alts="Mellow | Mike;Tusk" />
-    <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="Fluxator" />
     <Player Name="QTIP" Team="Platteville" Invisible="false" Characters="" Alts="MH | QTIP" />
+    <Player Name="Flux" Team="Janesville" Invisible="false" Characters="" Alts="Fluxator" />
     <Player Name="Saucy" Team="Platteville" Invisible="false" Characters="" Alts="" />
     <Player Name="Cardboardbear" Team="Dubuque" Invisible="false" Characters="" Alts="CardboardBear;CardBoardBear" />
     <Player Name="8_bit_D" Team="Platteville" Invisible="false" Characters="" Alts="XPND | 8_bit_D;8_Bit_D;CHMRA | 8_bit_D;CG | 8_bit_D;CG | GenZ | 8_bit_d;Gay Baby Jail" />
@@ -1734,7 +1734,6 @@
     <Match ID="6538f7548c2748e3b16042ea350a0af1" Timestamp="9/16/2017 4:19:55 PM" Order="43" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="QTIP" Player2="Narbs" Winner="1" />
     <Match ID="2cbda582e8144746abaf4cf7a1c8c6ed" Timestamp="9/16/2017 4:19:55 PM" Order="44" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="Cardboardbear" Player2="Flux" Winner="2" />
     <Match ID="a64daf832a6f40229319b83b8fc20129" Timestamp="9/16/2017 4:19:55 PM" Order="45" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="Zen" Player2="QTIP" Winner="1" />
-    <Match ID="9557481bdcf34afea4aa079fdd1d714b" Timestamp="9/16/2017 4:19:55 PM" Order="46" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="Flux" Player2="Zen" Winner="1" />
     <Match ID="e2d493d339c844ebae2cef5922f9b9df" Timestamp="9/16/2017 4:19:55 PM" Order="47" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="oh" Player2="Flux" Winner="1" />
     <Match ID="0e7173199ade429ea760f2207bff0d2f" Timestamp="9/16/2017 4:19:55 PM" Order="48" Tournament="Smash Jam 27 Melee Singles" Description="challonge - Smash Jam 27 Melee Singles" Player1="Kendrick" Player2="oh" Winner="1" />
     <Match ID="ecf280a6f5b34c189489ff2cc69f38bf" Timestamp="10/7/2017 5:09:40 PM" Order="1" Tournament="Smash Jam 28 Melee Singles" Description="challonge - Smash Jam 28 Melee Singles" Player1="DrKBlaze" Player2="TyeDye" Winner="1" />
